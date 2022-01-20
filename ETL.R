@@ -25,6 +25,9 @@ colnames(birth_startups) <- data_startups[1,]
 birth_startups <- birth_startups[-1,]
 
 birth_startups$'2020' <- birth_startups$'2019'
+
+birth_startups <- gather(birth_startups,"YEAR","VALUE",c(-Oeste))
+
 #write.csv(birth_startups,"birth_startups.csv")
 
 
@@ -52,6 +55,7 @@ unemployment_data <- unemployment
 colnames(unemployment_data) <- unemployment[1,]
 unemployment_data <- unemployment_data[-1,]
 
+unemployment_data <- gather(unemployment_data,"YEAR","VALUE",c(-Oeste))
 #write.csv(unemployment,"unemployment.csv")
 
 
@@ -79,7 +83,9 @@ colnames(tertiary_employ2) <- tertiary_employ[1,]
 tertiary_employ2 <- tertiary_employ2[-1,]
 
 tertiary_employ2$'2020' <- tertiary_employ2$'2011'
-#write.csv(tertiary_employ ,"tertiary_employ .csv")
+
+tertiary_employ2 <- gather(tertiary_employ2,"YEAR","VALUE",c(-Oeste))
+#write.csv(tertiary_employ2 ,"tertiary_employ2 .csv")
 
 
 ## CONNECTED TO PUBLIC WATER 
@@ -107,6 +113,8 @@ public_water_data <- public_water_data[-1,]
 
 
 public_water_data$"2020" <- public_water_data$"2019"
+
+public_water_data <- gather(public_water_data,"YEAR","VALUE",c(-Oeste))
 #write.csv(public_water_data,"public_water_data.csv")
 
 
@@ -134,6 +142,7 @@ wasteindex2 <- wasteindex
 colnames(wasteindex) <- wasteindex[1,]
 wasteindex <- wasteindex[-1,]
 
+wasteindex <- gather(wasteindex,"YEAR","VALUE",c(-Oeste))
 #write.csv(wasteindex,"wasteindex.csv")
 
 
@@ -162,6 +171,8 @@ voters <- voters[-1,]
 
 voters$"2020" <- voters$"2021"
 voters <- select(voters,-"2021")
+
+voters <- gather(voters,"YEAR","VALUE",c(-Oeste))
 #write.csv(voters,"voters.csv")
 
 
@@ -189,6 +200,7 @@ internet_comp2 <- internet_comp
 colnames(internet_comp) <- internet_comp[1,]
 internet_comp <- internet_comp[-1,]
 
+internet_comp <- gather(internet_comp,"YEAR","VALUE",c(-Oeste))
 #write.csv(internet_comp,"internet_comp.csv")
 
 ## % CRIME 
@@ -214,6 +226,7 @@ crime2 <- crime
 colnames(crime) <- crime[1,]
 crime <- crime[-1,]
 
+crime <- gather(crime,"YEAR","VALUE",c(-Oeste))
 #write.csv(crime,"crime.csv")
 
 
@@ -240,7 +253,7 @@ museums2 <- museums
 colnames(museums) <- museums[1,]
 museums <- museums[-1,]
 
-museums <- str_remove(museums$`2001`,'┴')
+museums <- gather(museums,"YEAR","VALUE",c(-Oeste))
 #write.csv(museums,"museums.csv")
 
 
@@ -271,6 +284,7 @@ fatality <- fatality[-1,]
 
 fatality$'2020' <- fatality$`2019`
 
+fatality <- gather(fatality,"YEAR","VALUE",c(-Oeste))
 #write.csv(fatality,"fatality.csv")
 
 
@@ -282,6 +296,8 @@ colnames(ict_firms) <- c('Oeste','2019','2018','2017', '2016', '2015', '2014','2
 ict_firms <- select(ict_firms,'Oeste', '2009','2010','2011','2012','2013','2014','2015','2016','2017','2018','2019')
 
 ict_firms$'2020' <- ict_firms$'2019'
+
+ict_firms <- gather(ict_firms,"YEAR","VALUE",c(-Oeste))
 #write.csv(ict_firms,"ict_firms.csv")
 
 ## FUEL CONSUMPTION
@@ -292,10 +308,15 @@ colnames(fuel_comsump) <- c('Oeste','2019','2018','2017', '2016', '2015', '2014'
 fuel_comsump<- select(fuel_comsump,'Oeste', '2011','2012','2013','2014','2015','2016','2017','2018','2019')
 
 fuel_comsump$"2020" <- fuel_comsump$`2019`
+
+fuel_comsump <- gather(fuel_comsump,"YEAR","VALUE",c(-Oeste))
 #write.csv(fuel_comsump,"fuel_comsump.csv")
 
 ## TRANSPARENCY INDEX
 transparent <- read.csv("C:/Users/Oluwole Olatoke/Desktop/SMART REGIONS/INPUT DATA/TRANSPARENCY INDEX.csv")
 transparent <- rename(transparent, "2013"= "X2013")
 transparent$'2020' <- transparent$'2013'
+
+transparent <- gather(transparent,"YEAR","VALUE",c(-Oeste))
 #write.csv(transparent,"transparent.csv")
+

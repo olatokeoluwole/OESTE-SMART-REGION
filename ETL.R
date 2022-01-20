@@ -27,6 +27,7 @@ birth_startups <- birth_startups[-1,]
 birth_startups$'2020' <- birth_startups$'2019'
 
 birth_startups <- gather(birth_startups,"YEAR","VALUE",c(-Oeste))
+birth_startups <- mutate(birth_startups,"DIMENSION"= "economy","ID_INDICATOR"=1,"DIMENSION_COUNT"=5, "INDICATOR_COUNT"=4 )
 
 #write.csv(birth_startups,"birth_startups.csv")
 
@@ -56,6 +57,8 @@ colnames(unemployment_data) <- unemployment[1,]
 unemployment_data <- unemployment_data[-1,]
 
 unemployment_data <- gather(unemployment_data,"YEAR","VALUE",c(-Oeste))
+unemployment_data <- mutate(unemployment_data,"DIMENSION"= "economy","ID_INDICATOR"=1,"DIMENSION_COUNT"=5, "INDICATOR_COUNT"=4 )
+
 #write.csv(unemployment,"unemployment.csv")
 
 
@@ -85,6 +88,8 @@ tertiary_employ2 <- tertiary_employ2[-1,]
 tertiary_employ2$'2020' <- tertiary_employ2$'2011'
 
 tertiary_employ2 <- gather(tertiary_employ2,"YEAR","VALUE",c(-Oeste))
+tertiary_employ2 <- mutate(tertiary_employ2,"DIMENSION"= "economy","ID_INDICATOR"=4,"DIMENSION_COUNT"=5, "INDICATOR_COUNT"=3)
+
 #write.csv(tertiary_employ2 ,"tertiary_employ2 .csv")
 
 
@@ -115,6 +120,8 @@ public_water_data <- public_water_data[-1,]
 public_water_data$"2020" <- public_water_data$"2019"
 
 public_water_data <- gather(public_water_data,"YEAR","VALUE",c(-Oeste))
+public_water_data <- mutate(public_water_data,"DIMENSION"= "environment","ID_INDICATOR"=13,"DIMENSION_COUNT"=5, "INDICATOR_COUNT"=3)
+
 #write.csv(public_water_data,"public_water_data.csv")
 
 
@@ -143,6 +150,8 @@ colnames(wasteindex) <- wasteindex[1,]
 wasteindex <- wasteindex[-1,]
 
 wasteindex <- gather(wasteindex,"YEAR","VALUE",c(-Oeste))
+wasteindex <- mutate(wasteindex,"DIMENSION"= "environment","ID_INDICATOR"=12,"DIMENSION_COUNT"=5, "INDICATOR_COUNT"=2)
+
 #write.csv(wasteindex,"wasteindex.csv")
 
 
@@ -173,6 +182,8 @@ voters$"2020" <- voters$"2021"
 voters <- select(voters,-"2021")
 
 voters <- gather(voters,"YEAR","VALUE",c(-Oeste))
+voters <- mutate(voters,"DIMENSION"= "governance","ID_INDICATOR"=11,"DIMENSION_COUNT"=4, "INDICATOR_COUNT"=2)
+
 #write.csv(voters,"voters.csv")
 
 
@@ -201,6 +212,9 @@ colnames(internet_comp) <- internet_comp[1,]
 internet_comp <- internet_comp[-1,]
 
 internet_comp <- gather(internet_comp,"YEAR","VALUE",c(-Oeste))
+internet_comp <- mutate(internet_comp,"DIMENSION"= "people","ID_INDICATOR"=2,"DIMENSION_COUNT"=4, "INDICATOR_COUNT"=4)
+
+
 #write.csv(internet_comp,"internet_comp.csv")
 
 ## % CRIME 
@@ -227,6 +241,8 @@ colnames(crime) <- crime[1,]
 crime <- crime[-1,]
 
 crime <- gather(crime,"YEAR","VALUE",c(-Oeste))
+crime <- mutate(crime,"DIMENSION"= "people","ID_INDICATOR"=2,"DIMENSION_COUNT"=4, "INDICATOR_COUNT"=3)
+
 #write.csv(crime,"crime.csv")
 
 
@@ -254,6 +270,7 @@ colnames(museums) <- museums[1,]
 museums <- museums[-1,]
 
 museums <- gather(museums,"YEAR","VALUE",c(-Oeste))
+museums <- mutate(museums,"DIMENSION"= "people","ID_INDICATOR"=7,"DIMENSION_COUNT"=4, "INDICATOR_COUNT"=2)
 #write.csv(museums,"museums.csv")
 
 
@@ -285,11 +302,12 @@ fatality <- fatality[-1,]
 fatality$'2020' <- fatality$`2019`
 
 fatality <- gather(fatality,"YEAR","VALUE",c(-Oeste))
+fatality <- mutate(fatality,"DIMENSION"= "people","ID_INDICATOR"=8,"DIMENSION_COUNT"=4, "INDICATOR_COUNT"=2)
 #write.csv(fatality,"fatality.csv")
 
 
 ## SURVIVAL OF ICT FIRMS
-data <- read.csv("C:/Users/Oluwole Olatoke/Desktop/SMART REGIONS/INPUT DATA/ICT SURVIVAL.csv")
+data <- read.csv("C:/Users/Oluwole Olatoke/Desktop/SMART REGIONS/ETL CODE/OESTE-SMART-REGION/ICT SURVIVAL.csv")
 ict_firms <- data[10:21,]
 ict_firms <- select(ict_firms,"Oeste", X.1,X.3,X.5, X.7, X.9,X.11, X.13, X.15,X.17,X.19,X.21)
 colnames(ict_firms) <- c('Oeste','2019','2018','2017', '2016', '2015', '2014','2013', '2012', '2011', '2010','2009')
@@ -298,10 +316,12 @@ ict_firms <- select(ict_firms,'Oeste', '2009','2010','2011','2012','2013','2014'
 ict_firms$'2020' <- ict_firms$'2019'
 
 ict_firms <- gather(ict_firms,"YEAR","VALUE",c(-Oeste))
+ict_firms <- mutate(ict_firms,"DIMENSION"= "economy","ID_INDICATOR"=6,"DIMENSION_COUNT"=5, "INDICATOR_COUNT"=3)
+
 #write.csv(ict_firms,"ict_firms.csv")
 
 ## FUEL CONSUMPTION
-data <- read.csv("C:/Users/Oluwole Olatoke/Desktop/SMART REGIONS/INPUT DATA/FUEL CONSUMPTION PER RESIDENT.csv")
+data <- read.csv("C:/Users/Oluwole Olatoke/Desktop/SMART REGIONS/ETL CODE/OESTE-SMART-REGION/FUEL CONSUMPTION PER RESIDENT.csv")
 fuel_comsump <- data[8:19,]
 fuel_comsump <- select(fuel_comsump,"Oeste", X.1,X.3,X.5, X.7, X.9,X.11, X.13, X.15,X.17)
 colnames(fuel_comsump) <- c('Oeste','2019','2018','2017', '2016', '2015', '2014','2013', '2012', '2011')
@@ -310,13 +330,35 @@ fuel_comsump<- select(fuel_comsump,'Oeste', '2011','2012','2013','2014','2015','
 fuel_comsump$"2020" <- fuel_comsump$`2019`
 
 fuel_comsump <- gather(fuel_comsump,"YEAR","VALUE",c(-Oeste))
+fuel_comsump <- mutate(fuel_comsump,"DIMENSION"= "environment","ID_INDICATOR"=5,"DIMENSION_COUNT"=5, "INDICATOR_COUNT"=3)
 #write.csv(fuel_comsump,"fuel_comsump.csv")
 
 ## TRANSPARENCY INDEX
-transparent <- read.csv("C:/Users/Oluwole Olatoke/Desktop/SMART REGIONS/INPUT DATA/TRANSPARENCY INDEX.csv")
+transparent <- read.csv("C:/Users/Oluwole Olatoke/Desktop/SMART REGIONS/ETL CODE/OESTE-SMART-REGION/TRANSPARENCY INDEX.csv")
 transparent <- rename(transparent, "2013"= "X2013")
 transparent$'2020' <- transparent$'2013'
 
 transparent <- gather(transparent,"YEAR","VALUE",c(-Oeste))
+transparent <- mutate(transparent,"DIMENSION"= "governance","ID_INDICATOR"=9,"DIMENSION_COUNT"=4, "INDICATOR_COUNT"=4)
 #write.csv(transparent,"transparent.csv")
+
+
+##FACT TABLE
+fact_table <- rbind(crime, fatality,fuel_comsump,ict_firms,internet_comp,museums,
+                    public_water_data, tertiary_employ2, transparent,unemployment_data,
+                    voters, wasteindex)
+
+write.csv(fact_table,"FACT TABLE.csv")
+
+
+## MUNICIPALITY DIM
+names
+
+municipality <- names
+colnames(municipality) <- municipality[1,]
+municipality <- municipality[-1,]
+municipality <- cbind(ID=1:nrow(municipality),municipality)
+
+
+write.csv(municipality,"MUNICIPALITY DIM.csv")
 

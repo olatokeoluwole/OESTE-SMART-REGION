@@ -354,6 +354,7 @@ fact_table <-rename(fact_table,"INDICATOR ID"="ID_INDICATOR") %>%
   rename("MUNICIPALITY"="Oeste") %>% 
   rename("DATE"="YEAR")
 
+
 write.csv(fact_table,"FACT TABLE.csv")
 
 

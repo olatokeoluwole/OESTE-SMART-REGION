@@ -350,6 +350,9 @@ fact_table <- rbind(crime, fatality,fuel_comsump,ict_firms,internet_comp,museums
                     public_water_data, tertiary_employ2, transparent,unemployment_data,
                     voters, wasteindex)
 fact_table <- filter(fact_table, YEAR>="2017")
+fact_table <-rename(fact_table,"INDICATOR ID"="ID_INDICATOR") %>% 
+  rename("MUNICIPALITY"="Oeste") %>% 
+  rename("DATE"="YEAR")
 
 write.csv(fact_table,"FACT TABLE.csv")
 
@@ -363,8 +366,25 @@ colnames(municipality) <- municipality[1,]
 municipality <- municipality[-1,]
 municipality <- cbind(ID=1:nrow(municipality),municipality)
 
+municipality <-rename(municipality,"MUNICIPALITY ID"="ID") %>% 
+  rename("MUNICIPALITY"="Oeste")
 
 write.csv(municipality,"MUNICIPALITY DIM.csv")
+
+## DATE DIMENSION
+date <- read.csv('C:/Users/Oluwole Olatoke/Desktop/SMART REGIONS/ETL CODE/OESTE-SMART-REGION/DATE DIM.csv')
+date <- select(date, X, DATE) %>% 
+  rename("DATE ID"="X")
+
+write.csv(date,"DATE DIM.csv")
+
+## INDICATOR DIMENSION
+indicator <- read.csv('C:/Users/Oluwole Olatoke/Desktop/SMART REGIONS/ETL CODE/OESTE-SMART-REGION/INDICATORS DIM.csv')
+indicator <- select(indicator, X, INDICATOR) %>% 
+  rename("INDICATOR ID"="X")
+
+
+write.csv(indicator,"INDICATORS DIM.csv")
 
 
 ## SHAPEFILE

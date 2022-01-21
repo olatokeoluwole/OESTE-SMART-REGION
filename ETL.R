@@ -1,4 +1,5 @@
 library(rvest)
+library(sf)
 library(tidyverse)
 
 ## BIRTH RATE OF STARTUPS 
@@ -362,3 +363,7 @@ municipality <- cbind(ID=1:nrow(municipality),municipality)
 
 write.csv(municipality,"MUNICIPALITY DIM.csv")
 
+
+## SHAPEFILE
+map <- st_read(dsn = 'C:/Users/Oluwole Olatoke/Desktop/SMART REGIONS/ETL CODE/OESTE-SMART-REGION/shapefileCIM/CIM.shp')
+plot(map)

@@ -1,5 +1,6 @@
 library(rvest)
 library(sf)
+library(stringr)
 library(tidyverse)
 
 ## BIRTH RATE OF STARTUPS 
@@ -348,6 +349,8 @@ transparent <- mutate(transparent,"DIMENSION"= "governance","ID_INDICATOR"=9,"DI
 fact_table <- rbind(crime, fatality,fuel_comsump,ict_firms,internet_comp,museums,
                     public_water_data, tertiary_employ2, transparent,unemployment_data,
                     voters, wasteindex)
+
+fact_table <-str_replace_all(fact_table, "- ", " ")
 
 write.csv(fact_table,"FACT TABLE.csv")
 

@@ -65,7 +65,7 @@ unemployment_data <- mutate(unemployment_data,"DIMENSION"= "economy","ID_INDICAT
 
 
 ## EMPLOYED IN TERTIARY SECTOR 
-url <- "https://www.pordata.pt/en/DB/Municipalities/Search+Environment/Table/5826446 "
+url <- "https://www.pordata.pt/en/DB/Municipalities/Search+Environment/Table/5826552 "
 page <- read_html(url)
 table <- page %>% html_nodes("table") %>%  .[4] %>% 
   html_table() %>% .[[1]]
@@ -349,10 +349,10 @@ transparent <- mutate(transparent,"DIMENSION"= "governance","ID_INDICATOR"=9,"DI
 fact_table <- rbind(crime, fatality,fuel_comsump,ict_firms,internet_comp,museums,
                     public_water_data, tertiary_employ2, transparent,unemployment_data,
                     voters, wasteindex)
-
-fact_table <-str_replace_all(fact_table, "- ", " ")
+fact_table <- filter(fact_table, YEAR>="2017")
 
 write.csv(fact_table,"FACT TABLE.csv")
+
 
 
 ## MUNICIPALITY DIM

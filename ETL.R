@@ -59,7 +59,7 @@ colnames(unemployment_data) <- unemployment[1,]
 unemployment_data <- unemployment_data[-1,]
 
 unemployment_data <- gather(unemployment_data,"YEAR","VALUE",c(-Oeste))
-unemployment_data <- mutate(unemployment_data,"DIMENSION"= "economy","ID_INDICATOR"=1,"DIMENSION_COUNT"=5, "INDICATOR_COUNT"=4 )
+unemployment_data <- mutate(unemployment_data,"DIMENSION"= "economy","ID_INDICATOR"=10,"DIMENSION_COUNT"=5, "INDICATOR_COUNT"=4 )
 
 #write.csv(unemployment,"unemployment.csv")
 
@@ -243,7 +243,7 @@ colnames(crime) <- crime[1,]
 crime <- crime[-1,]
 
 crime <- gather(crime,"YEAR","VALUE",c(-Oeste))
-crime <- mutate(crime,"DIMENSION"= "people","ID_INDICATOR"=2,"DIMENSION_COUNT"=4, "INDICATOR_COUNT"=3)
+crime <- mutate(crime,"DIMENSION"= "people","ID_INDICATOR"=3,"DIMENSION_COUNT"=4, "INDICATOR_COUNT"=3)
 
 #write.csv(crime,"crime.csv")
 
@@ -346,16 +346,43 @@ transparent <- mutate(transparent,"DIMENSION"= "governance","ID_INDICATOR"=9,"DI
 
 
 ##FACT TABLE
-fact_table <- rbind(crime, fatality,fuel_comsump,ict_firms,internet_comp,museums,
+fact_table <- rbind(birth_startups,crime, fatality,fuel_comsump,ict_firms,internet_comp,museums,
                     public_water_data, tertiary_employ2, transparent,unemployment_data,
                     voters, wasteindex)
 fact_table <- filter(fact_table, YEAR>="2017")
 fact_table <-rename(fact_table,"INDICATOR ID"="ID_INDICATOR") %>% 
-  rename("MUNICIPALITY"="Oeste") %>% 
+  rename("MUNICIPALITY ID"="Oeste") %>% 
   rename("DATE"="YEAR")
+fact_table <- filter(fact_table, DATE=='2020')
+
+# I first turn the VALUE column to numeric and then I normalized the data here
+fact_table$VALUE <- as.numeric(fact_table$VALUE)
+
+min_max_norm <- function(x) {
+  (x - min(x)) / (max(x) - min(x))
+}
+
+#apply Min-Max normalization to first four columns in iris dataset
+fact_table$"norm_value" <- as.data.frame(lapply(fact_table[3], min_max_norm))
+
+fact_table <- mutate(fact_table,"index"= (fact_table$DIMENSION_COUNT*fact_table$INDICATOR_COUNT*fact_table$norm_value))
+
+fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Alcobaça"] <-  1
+fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Alenquer"] <-  2
+fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Arruda dos Vinhos"] <-  3
+fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Bombarral"] <-  4
+fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Cadaval"] <-  5
+fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Caldas da Rainha"] <-  6
+fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Lourinhã"] <-  7
+fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Nazaré"] <-  8
+fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Óbidos"] <-  9
+fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Peniche"] <-  10
+fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Sobral de Monte Agraço"] <-  11
+fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Torres Vedras"] <-  12
 
 
-write.csv(fact_table,"FACT TABLE.csv")
+#write.csv(fact_table,"FACT TABLE.csv")
+
 
 
 
@@ -388,6 +415,29 @@ indicator <- select(indicator, X, INDICATOR) %>%
 write.csv(indicator,"INDICATORS DIM.csv")
 
 
-## SHAPEFILE
+## SHAPEFILE polygons
 maps <- st_read(dsn = 'C:/Users/Oluwole Olatoke/Desktop/SMART REGIONS/ETL CODE/OESTE-SMART-REGION/shapefileCIM/CIM.shp')
 plot(maps)
+
+
+
+## SHAPEFILE landuse
+landuse <- st_read(dsn = 'C:/Users/Oluwole Olatoke/Desktop/SMART REGIONS/ETL CODE/OESTE-SMART-REGION/landcover/landuse.shp')
+
+view(landuse)
+agric <- filter(landuse, COS2018_n1 == '2.Agricultura')
+
+plot(agric)
+
+
+
+
+
+
+
+
+
+
+
+
+

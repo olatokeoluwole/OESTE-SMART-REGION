@@ -1,0 +1,1801 @@
+"","Oeste","YEAR","VALUE","DIMENSION","ID_INDICATOR","DIMENSION_COUNT","INDICATOR_COUNT"
+"1","Alcobaça","2009","10.0","economy",1,5,4
+"2","Alenquer","2009","10.7","economy",1,5,4
+"3","Arruda dos Vinhos","2009","12.2","economy",1,5,4
+"4","Bombarral","2009","9.3","economy",1,5,4
+"5","Cadaval","2009","9.1","economy",1,5,4
+"6","Caldas da Rainha","2009","11.9","economy",1,5,4
+"7","Lourinhã","2009","12.1","economy",1,5,4
+"8","Nazaré","2009","10.3","economy",1,5,4
+"9","Óbidos","2009","11.3","economy",1,5,4
+"10","Peniche","2009","10.2","economy",1,5,4
+"11","Sobral de Monte Agraço","2009","10.2","economy",1,5,4
+"12","Torres Vedras","2009","11.0","economy",1,5,4
+"13","Alcobaça","2010","10.1","economy",1,5,4
+"14","Alenquer","2010","11.4","economy",1,5,4
+"15","Arruda dos Vinhos","2010","11.8","economy",1,5,4
+"16","Bombarral","2010","8.3","economy",1,5,4
+"17","Cadaval","2010","10.0","economy",1,5,4
+"18","Caldas da Rainha","2010","11.1","economy",1,5,4
+"19","Lourinhã","2010","12.1","economy",1,5,4
+"20","Nazaré","2010","11.6","economy",1,5,4
+"21","Óbidos","2010","12.8","economy",1,5,4
+"22","Peniche","2010","11.3","economy",1,5,4
+"23","Sobral de Monte Agraço","2010","12.3","economy",1,5,4
+"24","Torres Vedras","2010","11.1","economy",1,5,4
+"25","Alcobaça","2011","11.8","economy",1,5,4
+"26","Alenquer","2011","11.9","economy",1,5,4
+"27","Arruda dos Vinhos","2011","12.3","economy",1,5,4
+"28","Bombarral","2011","11.0","economy",1,5,4
+"29","Cadaval","2011","14.0","economy",1,5,4
+"30","Caldas da Rainha","2011","12.6","economy",1,5,4
+"31","Lourinhã","2011","11.6","economy",1,5,4
+"32","Nazaré","2011","12.5","economy",1,5,4
+"33","Óbidos","2011","15.0","economy",1,5,4
+"34","Peniche","2011","11.4","economy",1,5,4
+"35","Sobral de Monte Agraço","2011","11.8","economy",1,5,4
+"36","Torres Vedras","2011","11.2","economy",1,5,4
+"37","Alcobaça","2012","11.3","economy",1,5,4
+"38","Alenquer","2012","12.3","economy",1,5,4
+"39","Arruda dos Vinhos","2012","12.7","economy",1,5,4
+"40","Bombarral","2012","9.5","economy",1,5,4
+"41","Cadaval","2012","10.1","economy",1,5,4
+"42","Caldas da Rainha","2012","11.8","economy",1,5,4
+"43","Lourinhã","2012","12.3","economy",1,5,4
+"44","Nazaré","2012","10.6","economy",1,5,4
+"45","Óbidos","2012","11.7","economy",1,5,4
+"46","Peniche","2012","11.9","economy",1,5,4
+"47","Sobral de Monte Agraço","2012","12.0","economy",1,5,4
+"48","Torres Vedras","2012","11.6","economy",1,5,4
+"49","Alcobaça","2013","13.7","economy",1,5,4
+"50","Alenquer","2013","21.1","economy",1,5,4
+"51","Arruda dos Vinhos","2013","17.7","economy",1,5,4
+"52","Bombarral","2013","23.2","economy",1,5,4
+"53","Cadaval","2013","30.5","economy",1,5,4
+"54","Caldas da Rainha","2013","15.4","economy",1,5,4
+"55","Lourinhã","2013","15.8","economy",1,5,4
+"56","Nazaré","2013","13.0","economy",1,5,4
+"57","Óbidos","2013","17.7","economy",1,5,4
+"58","Peniche","2013","16.4","economy",1,5,4
+"59","Sobral de Monte Agraço","2013","17.5","economy",1,5,4
+"60","Torres Vedras","2013","19.6","economy",1,5,4
+"61","Alcobaça","2014","13.6","economy",1,5,4
+"62","Alenquer","2014","15.0","economy",1,5,4
+"63","Arruda dos Vinhos","2014","14.7","economy",1,5,4
+"64","Bombarral","2014","12.4","economy",1,5,4
+"65","Cadaval","2014","13.1","economy",1,5,4
+"66","Caldas da Rainha","2014","15.0","economy",1,5,4
+"67","Lourinhã","2014","12.8","economy",1,5,4
+"68","Nazaré","2014","14.8","economy",1,5,4
+"69","Óbidos","2014","15.1","economy",1,5,4
+"70","Peniche","2014","13.4","economy",1,5,4
+"71","Sobral de Monte Agraço","2014","11.2","economy",1,5,4
+"72","Torres Vedras","2014","13.8","economy",1,5,4
+"73","Alcobaça","2015","14.7","economy",1,5,4
+"74","Alenquer","2015","14.8","economy",1,5,4
+"75","Arruda dos Vinhos","2015","16.0","economy",1,5,4
+"76","Bombarral","2015","12.5","economy",1,5,4
+"77","Cadaval","2015","12.3","economy",1,5,4
+"78","Caldas da Rainha","2015","16.4","economy",1,5,4
+"79","Lourinhã","2015","13.4","economy",1,5,4
+"80","Nazaré","2015","16.4","economy",1,5,4
+"81","Óbidos","2015","16.2","economy",1,5,4
+"82","Peniche","2015","14.5","economy",1,5,4
+"83","Sobral de Monte Agraço","2015","15.5","economy",1,5,4
+"84","Torres Vedras","2015","14.6","economy",1,5,4
+"85","Alcobaça","2016","13.6","economy",1,5,4
+"86","Alenquer","2016","14.0","economy",1,5,4
+"87","Arruda dos Vinhos","2016","13.4","economy",1,5,4
+"88","Bombarral","2016","11.2","economy",1,5,4
+"89","Cadaval","2016","12.7","economy",1,5,4
+"90","Caldas da Rainha","2016","14.6","economy",1,5,4
+"91","Lourinhã","2016","14.3","economy",1,5,4
+"92","Nazaré","2016","15.8","economy",1,5,4
+"93","Óbidos","2016","16.1","economy",1,5,4
+"94","Peniche","2016","13.8","economy",1,5,4
+"95","Sobral de Monte Agraço","2016","12.4","economy",1,5,4
+"96","Torres Vedras","2016","14.4","economy",1,5,4
+"97","Alcobaça","2017","13.2","economy",1,5,4
+"98","Alenquer","2017","14.1","economy",1,5,4
+"99","Arruda dos Vinhos","2017","13.2","economy",1,5,4
+"100","Bombarral","2017","12.1","economy",1,5,4
+"101","Cadaval","2017","11.2","economy",1,5,4
+"102","Caldas da Rainha","2017","15.4","economy",1,5,4
+"103","Lourinhã","2017","14.8","economy",1,5,4
+"104","Nazaré","2017","17.2","economy",1,5,4
+"105","Óbidos","2017","13.5","economy",1,5,4
+"106","Peniche","2017","15.1","economy",1,5,4
+"107","Sobral de Monte Agraço","2017","12.9","economy",1,5,4
+"108","Torres Vedras","2017","14.8","economy",1,5,4
+"109","Alcobaça","2018","12.2","economy",1,5,4
+"110","Alenquer","2018","15.6","economy",1,5,4
+"111","Arruda dos Vinhos","2018","16.1","economy",1,5,4
+"112","Bombarral","2018","13.1","economy",1,5,4
+"113","Cadaval","2018","11.9","economy",1,5,4
+"114","Caldas da Rainha","2018","13.7","economy",1,5,4
+"115","Lourinhã","2018","15.1","economy",1,5,4
+"116","Nazaré","2018","14.8","economy",1,5,4
+"117","Óbidos","2018","13.7","economy",1,5,4
+"118","Peniche","2018","15.0","economy",1,5,4
+"119","Sobral de Monte Agraço","2018","14.5","economy",1,5,4
+"120","Torres Vedras","2018","14.6","economy",1,5,4
+"121","Alcobaça","2019","11.6","economy",1,5,4
+"122","Alenquer","2019","14.3","economy",1,5,4
+"123","Arruda dos Vinhos","2019","14.5","economy",1,5,4
+"124","Bombarral","2019","9.4","economy",1,5,4
+"125","Cadaval","2019","11.7","economy",1,5,4
+"126","Caldas da Rainha","2019","14.1","economy",1,5,4
+"127","Lourinhã","2019","14.1","economy",1,5,4
+"128","Nazaré","2019","13.2","economy",1,5,4
+"129","Óbidos","2019","12.5","economy",1,5,4
+"130","Peniche","2019","13.7","economy",1,5,4
+"131","Sobral de Monte Agraço","2019","14.6","economy",1,5,4
+"132","Torres Vedras","2019","13.8","economy",1,5,4
+"133","Alcobaça","2020","11.6","economy",1,5,4
+"134","Alenquer","2020","14.3","economy",1,5,4
+"135","Arruda dos Vinhos","2020","14.5","economy",1,5,4
+"136","Bombarral","2020","9.4","economy",1,5,4
+"137","Cadaval","2020","11.7","economy",1,5,4
+"138","Caldas da Rainha","2020","14.1","economy",1,5,4
+"139","Lourinhã","2020","14.1","economy",1,5,4
+"140","Nazaré","2020","13.2","economy",1,5,4
+"141","Óbidos","2020","12.5","economy",1,5,4
+"142","Peniche","2020","13.7","economy",1,5,4
+"143","Sobral de Monte Agraço","2020","14.6","economy",1,5,4
+"144","Torres Vedras","2020","13.8","economy",1,5,4
+"145","Alcobaça","1993","19.3","people",3,4,3
+"146","Alenquer","1993","21.0","people",3,4,3
+"147","Arruda dos Vinhos","1993","11.2","people",3,4,3
+"148","Bombarral","1993","13.3","people",3,4,3
+"149","Cadaval","1993","8.6","people",3,4,3
+"150","Caldas da Rainha","1993","34.4","people",3,4,3
+"151","Lourinhã","1993","18.1","people",3,4,3
+"152","Nazaré","1993","27.4","people",3,4,3
+"153","Óbidos","1993","20.5","people",3,4,3
+"154","Peniche","1993","31.9","people",3,4,3
+"155","Sobral de Monte Agraço","1993","13.6","people",3,4,3
+"156","Torres Vedras","1993","24.4","people",3,4,3
+"157","Alcobaça","2001","25.8","people",3,4,3
+"158","Alenquer","2001","27.5","people",3,4,3
+"159","Arruda dos Vinhos","2001","11.3","people",3,4,3
+"160","Bombarral","2001","21.2","people",3,4,3
+"161","Cadaval","2001","16.5","people",3,4,3
+"162","Caldas da Rainha","2001","43.7","people",3,4,3
+"163","Lourinhã","2001","22.0","people",3,4,3
+"164","Nazaré","2001","41.1","people",3,4,3
+"165","Óbidos","2001","20.9","people",3,4,3
+"166","Peniche","2001","32.4","people",3,4,3
+"167","Sobral de Monte Agraço","2001","22.7","people",3,4,3
+"168","Torres Vedras","2001","23.1","people",3,4,3
+"169","Alcobaça","2009","35.8","people",3,4,3
+"170","Alenquer","2009","31.4","people",3,4,3
+"171","Arruda dos Vinhos","2009","33.8","people",3,4,3
+"172","Bombarral","2009","32.5","people",3,4,3
+"173","Cadaval","2009","35.2","people",3,4,3
+"174","Caldas da Rainha","2009","52.4","people",3,4,3
+"175","Lourinhã","2009","33.6","people",3,4,3
+"176","Nazaré","2009","42.3","people",3,4,3
+"177","Óbidos","2009","45.6","people",3,4,3
+"178","Peniche","2009","42.5","people",3,4,3
+"179","Sobral de Monte Agraço","2009","36.7","people",3,4,3
+"180","Torres Vedras","2009","30.3","people",3,4,3
+"181","Alcobaça","2010","37.9","people",3,4,3
+"182","Alenquer","2010","32.5","people",3,4,3
+"183","Arruda dos Vinhos","2010","30.1","people",3,4,3
+"184","Bombarral","2010","44.8","people",3,4,3
+"185","Cadaval","2010","31.3","people",3,4,3
+"186","Caldas da Rainha","2010","40.5","people",3,4,3
+"187","Lourinhã","2010","31.9","people",3,4,3
+"188","Nazaré","2010","42.5","people",3,4,3
+"189","Óbidos","2010","39.9","people",3,4,3
+"190","Peniche","2010","41.8","people",3,4,3
+"191","Sobral de Monte Agraço","2010","36.3","people",3,4,3
+"192","Torres Vedras","2010","33.5","people",3,4,3
+"193","Alcobaça","2011","36.7","people",3,4,3
+"194","Alenquer","2011","34.4","people",3,4,3
+"195","Arruda dos Vinhos","2011","26.9","people",3,4,3
+"196","Bombarral","2011","43.3","people",3,4,3
+"197","Cadaval","2011","35.3","people",3,4,3
+"198","Caldas da Rainha","2011","44.2","people",3,4,3
+"199","Lourinhã","2011","33.3","people",3,4,3
+"200","Nazaré","2011","44.9","people",3,4,3
+"201","Óbidos","2011","42.7","people",3,4,3
+"202","Peniche","2011","42.3","people",3,4,3
+"203","Sobral de Monte Agraço","2011","43.2","people",3,4,3
+"204","Torres Vedras","2011","32.8","people",3,4,3
+"205","Alcobaça","2012","33.5","people",3,4,3
+"206","Alenquer","2012","29.3","people",3,4,3
+"207","Arruda dos Vinhos","2012","32.8","people",3,4,3
+"208","Bombarral","2012","36.4","people",3,4,3
+"209","Cadaval","2012","45.4","people",3,4,3
+"210","Caldas da Rainha","2012","39.2","people",3,4,3
+"211","Lourinhã","2012","39.8","people",3,4,3
+"212","Nazaré","2012","39.5","people",3,4,3
+"213","Óbidos","2012","52.1","people",3,4,3
+"214","Peniche","2012","46.3","people",3,4,3
+"215","Sobral de Monte Agraço","2012","38.2","people",3,4,3
+"216","Torres Vedras","2012","32.6","people",3,4,3
+"217","Alcobaça","2013","32.6","people",3,4,3
+"218","Alenquer","2013","26.4","people",3,4,3
+"219","Arruda dos Vinhos","2013","25.0","people",3,4,3
+"220","Bombarral","2013","29.9","people",3,4,3
+"221","Cadaval","2013","34.1","people",3,4,3
+"222","Caldas da Rainha","2013","37.3","people",3,4,3
+"223","Lourinhã","2013","27.3","people",3,4,3
+"224","Nazaré","2013","44.1","people",3,4,3
+"225","Óbidos","2013","35.1","people",3,4,3
+"226","Peniche","2013","41.1","people",3,4,3
+"227","Sobral de Monte Agraço","2013","32.2","people",3,4,3
+"228","Torres Vedras","2013","26.0","people",3,4,3
+"229","Alcobaça","2014","27.2","people",3,4,3
+"230","Alenquer","2014","24.0","people",3,4,3
+"231","Arruda dos Vinhos","2014","20.1","people",3,4,3
+"232","Bombarral","2014","31.7","people",3,4,3
+"233","Cadaval","2014","25.9","people",3,4,3
+"234","Caldas da Rainha","2014","32.8","people",3,4,3
+"235","Lourinhã","2014","25.5","people",3,4,3
+"236","Nazaré","2014","36.5","people",3,4,3
+"237","Óbidos","2014","30.8","people",3,4,3
+"238","Peniche","2014","40.6","people",3,4,3
+"239","Sobral de Monte Agraço","2014","25.8","people",3,4,3
+"240","Torres Vedras","2014","25.6","people",3,4,3
+"241","Alcobaça","2015","30.2","people",3,4,3
+"242","Alenquer","2015","24.9","people",3,4,3
+"243","Arruda dos Vinhos","2015","22.1","people",3,4,3
+"244","Bombarral","2015","30.9","people",3,4,3
+"245","Cadaval","2015","29.5","people",3,4,3
+"246","Caldas da Rainha","2015","32.9","people",3,4,3
+"247","Lourinhã","2015","23.0","people",3,4,3
+"248","Nazaré","2015","36.0","people",3,4,3
+"249","Óbidos","2015","41.1","people",3,4,3
+"250","Peniche","2015","36.0","people",3,4,3
+"251","Sobral de Monte Agraço","2015","23.2","people",3,4,3
+"252","Torres Vedras","2015","25.5","people",3,4,3
+"253","Alcobaça","2016","25.9","people",3,4,3
+"254","Alenquer","2016","19.3","people",3,4,3
+"255","Arruda dos Vinhos","2016","23.6","people",3,4,3
+"256","Bombarral","2016","24.3","people",3,4,3
+"257","Cadaval","2016","23.2","people",3,4,3
+"258","Caldas da Rainha","2016","29.8","people",3,4,3
+"259","Lourinhã","2016","22.8","people",3,4,3
+"260","Nazaré","2016","36.4","people",3,4,3
+"261","Óbidos","2016","27.9","people",3,4,3
+"262","Peniche","2016","32.9","people",3,4,3
+"263","Sobral de Monte Agraço","2016","24.6","people",3,4,3
+"264","Torres Vedras","2016","25.4","people",3,4,3
+"265","Alcobaça","2017","26.2","people",3,4,3
+"266","Alenquer","2017","21.4","people",3,4,3
+"267","Arruda dos Vinhos","2017","24.4","people",3,4,3
+"268","Bombarral","2017","23.9","people",3,4,3
+"269","Cadaval","2017","26.0","people",3,4,3
+"270","Caldas da Rainha","2017","27.8","people",3,4,3
+"271","Lourinhã","2017","22.1","people",3,4,3
+"272","Nazaré","2017","38.5","people",3,4,3
+"273","Óbidos","2017","32.2","people",3,4,3
+"274","Peniche","2017","34.9","people",3,4,3
+"275","Sobral de Monte Agraço","2017","27.1","people",3,4,3
+"276","Torres Vedras","2017","26.2","people",3,4,3
+"277","Alcobaça","2018","25.1","people",3,4,3
+"278","Alenquer","2018","23.1","people",3,4,3
+"279","Arruda dos Vinhos","2018","25.9","people",3,4,3
+"280","Bombarral","2018","21.5","people",3,4,3
+"281","Cadaval","2018","26.8","people",3,4,3
+"282","Caldas da Rainha","2018","28.1","people",3,4,3
+"283","Lourinhã","2018","25.0","people",3,4,3
+"284","Nazaré","2018","37.8","people",3,4,3
+"285","Óbidos","2018","28.9","people",3,4,3
+"286","Peniche","2018","35.1","people",3,4,3
+"287","Sobral de Monte Agraço","2018","29.1","people",3,4,3
+"288","Torres Vedras","2018","26.7","people",3,4,3
+"289","Alcobaça","2019","21.9","people",3,4,3
+"290","Alenquer","2019","24.1","people",3,4,3
+"291","Arruda dos Vinhos","2019","23.0","people",3,4,3
+"292","Bombarral","2019","27.7","people",3,4,3
+"293","Cadaval","2019","22.9","people",3,4,3
+"294","Caldas da Rainha","2019","24.9","people",3,4,3
+"295","Lourinhã","2019","22.3","people",3,4,3
+"296","Nazaré","2019","41.8","people",3,4,3
+"297","Óbidos","2019","27.7","people",3,4,3
+"298","Peniche","2019","33.3","people",3,4,3
+"299","Sobral de Monte Agraço","2019","33.3","people",3,4,3
+"300","Torres Vedras","2019","25.1","people",3,4,3
+"301","Alcobaça","2020","21.7","people",3,4,3
+"302","Alenquer","2020","21.9","people",3,4,3
+"303","Arruda dos Vinhos","2020","23.5","people",3,4,3
+"304","Bombarral","2020","21.3","people",3,4,3
+"305","Cadaval","2020","23.6","people",3,4,3
+"306","Caldas da Rainha","2020","21.1","people",3,4,3
+"307","Lourinhã","2020","24.0","people",3,4,3
+"308","Nazaré","2020","29.0","people",3,4,3
+"309","Óbidos","2020","21.4","people",3,4,3
+"310","Peniche","2020","26.9","people",3,4,3
+"311","Sobral de Monte Agraço","2020","35.5","people",3,4,3
+"312","Torres Vedras","2020","23.6","people",3,4,3
+"313","Alcobaça","1987","1.5","people",8,4,2
+"314","Alenquer","1987","0.3","people",8,4,2
+"315","Arruda dos Vinhos","1987","0.0","people",8,4,2
+"316","Bombarral","1987","0.0","people",8,4,2
+"317","Cadaval","1987","0.2","people",8,4,2
+"318","Caldas da Rainha","1987","0.6","people",8,4,2
+"319","Lourinhã","1987","0.1","people",8,4,2
+"320","Nazaré","1987","0.1","people",8,4,2
+"321","Óbidos","1987","0.1","people",8,4,2
+"322","Peniche","1987","0.4","people",8,4,2
+"323","Sobral de Monte Agraço","1987","0.2","people",8,4,2
+"324","Torres Vedras","1987","0.8","people",8,4,2
+"325","Alcobaça","1991","1.2","people",8,4,2
+"326","Alenquer","1991","0.3","people",8,4,2
+"327","Arruda dos Vinhos","1991","0.0","people",8,4,2
+"328","Bombarral","1991","0.2","people",8,4,2
+"329","Cadaval","1991","0.1","people",8,4,2
+"330","Caldas da Rainha","1991","0.6","people",8,4,2
+"331","Lourinhã","1991","0.2","people",8,4,2
+"332","Nazaré","1991","0.0","people",8,4,2
+"333","Óbidos","1991","0.4","people",8,4,2
+"334","Peniche","1991","0.2","people",8,4,2
+"335","Sobral de Monte Agraço","1991","0.1","people",8,4,2
+"336","Torres Vedras","1991","0.7","people",8,4,2
+"337","Alcobaça","2001","1.2","people",8,4,2
+"338","Alenquer","2001","0.6","people",8,4,2
+"339","Arruda dos Vinhos","2001","0.1","people",8,4,2
+"340","Bombarral","2001","0.3","people",8,4,2
+"341","Cadaval","2001","0.3","people",8,4,2
+"342","Caldas da Rainha","2001","0.2","people",8,4,2
+"343","Lourinhã","2001","0.1","people",8,4,2
+"344","Nazaré","2001","0.1","people",8,4,2
+"345","Óbidos","2001","0.1","people",8,4,2
+"346","Peniche","2001","0.3","people",8,4,2
+"347","Sobral de Monte Agraço","2001","0.1","people",8,4,2
+"348","Torres Vedras","2001","1.0","people",8,4,2
+"349","Alcobaça","2009","1.1","people",8,4,2
+"350","Alenquer","2009","0.7","people",8,4,2
+"351","Arruda dos Vinhos","2009","0.1","people",8,4,2
+"352","Bombarral","2009","0.3","people",8,4,2
+"353","Cadaval","2009","0.0","people",8,4,2
+"354","Caldas da Rainha","2009","0.7","people",8,4,2
+"355","Lourinhã","2009","0.1","people",8,4,2
+"356","Nazaré","2009","0.3","people",8,4,2
+"357","Óbidos","2009","0.0","people",8,4,2
+"358","Peniche","2009","0.3","people",8,4,2
+"359","Sobral de Monte Agraço","2009","0.0","people",8,4,2
+"360","Torres Vedras","2009","1.1","people",8,4,2
+"361","Alcobaça","2010","1.5","people",8,4,2
+"362","Alenquer","2010","0.9","people",8,4,2
+"363","Arruda dos Vinhos","2010","0.1","people",8,4,2
+"364","Bombarral","2010","0.4","people",8,4,2
+"365","Cadaval","2010","0.1","people",8,4,2
+"366","Caldas da Rainha","2010","0.0","people",8,4,2
+"367","Lourinhã","2010","0.4","people",8,4,2
+"368","Nazaré","2010","0.1","people",8,4,2
+"369","Óbidos","2010","0.3","people",8,4,2
+"370","Peniche","2010","0.1","people",8,4,2
+"371","Sobral de Monte Agraço","2010","0.3","people",8,4,2
+"372","Torres Vedras","2010","0.8","people",8,4,2
+"373","Alcobaça","2011","0.6","people",8,4,2
+"374","Alenquer","2011","0.9","people",8,4,2
+"375","Arruda dos Vinhos","2011","0.0","people",8,4,2
+"376","Bombarral","2011","0.2","people",8,4,2
+"377","Cadaval","2011","0.6","people",8,4,2
+"378","Caldas da Rainha","2011","0.4","people",8,4,2
+"379","Lourinhã","2011","0.0","people",8,4,2
+"380","Nazaré","2011","0.0","people",8,4,2
+"381","Óbidos","2011","0.0","people",8,4,2
+"382","Peniche","2011","0.3","people",8,4,2
+"383","Sobral de Monte Agraço","2011","0.2","people",8,4,2
+"384","Torres Vedras","2011","0.6","people",8,4,2
+"385","Alcobaça","2012","0.7","people",8,4,2
+"386","Alenquer","2012","0.9","people",8,4,2
+"387","Arruda dos Vinhos","2012","0.0","people",8,4,2
+"388","Bombarral","2012","0.4","people",8,4,2
+"389","Cadaval","2012","0.2","people",8,4,2
+"390","Caldas da Rainha","2012","1.2","people",8,4,2
+"391","Lourinhã","2012","0.0","people",8,4,2
+"392","Nazaré","2012","0.0","people",8,4,2
+"393","Óbidos","2012","0.2","people",8,4,2
+"394","Peniche","2012","0.2","people",8,4,2
+"395","Sobral de Monte Agraço","2012","0.0","people",8,4,2
+"396","Torres Vedras","2012","0.9","people",8,4,2
+"397","Alcobaça","2013","0.8","people",8,4,2
+"398","Alenquer","2013","0.6","people",8,4,2
+"399","Arruda dos Vinhos","2013","0.2","people",8,4,2
+"400","Bombarral","2013","0.2","people",8,4,2
+"401","Cadaval","2013","0.4","people",8,4,2
+"402","Caldas da Rainha","2013","0.8","people",8,4,2
+"403","Lourinhã","2013","0.0","people",8,4,2
+"404","Nazaré","2013","0.0","people",8,4,2
+"405","Óbidos","2013","0.4","people",8,4,2
+"406","Peniche","2013","0.4","people",8,4,2
+"407","Sobral de Monte Agraço","2013","0.0","people",8,4,2
+"408","Torres Vedras","2013","1.7","people",8,4,2
+"409","Alcobaça","2014","0.8","people",8,4,2
+"410","Alenquer","2014","0.8","people",8,4,2
+"411","Arruda dos Vinhos","2014","0.4","people",8,4,2
+"412","Bombarral","2014","0.2","people",8,4,2
+"413","Cadaval","2014","0.2","people",8,4,2
+"414","Caldas da Rainha","2014","0.2","people",8,4,2
+"415","Lourinhã","2014","0.0","people",8,4,2
+"416","Nazaré","2014","0.2","people",8,4,2
+"417","Óbidos","2014","0.4","people",8,4,2
+"418","Peniche","2014","0.2","people",8,4,2
+"419","Sobral de Monte Agraço","2014","0.0","people",8,4,2
+"420","Torres Vedras","2014","0.6","people",8,4,2
+"421","Alcobaça","2015","1.9","people",8,4,2
+"422","Alenquer","2015","0.9","people",8,4,2
+"423","Arruda dos Vinhos","2015","0.0","people",8,4,2
+"424","Bombarral","2015","0.0","people",8,4,2
+"425","Cadaval","2015","0.2","people",8,4,2
+"426","Caldas da Rainha","2015","0.6","people",8,4,2
+"427","Lourinhã","2015","0.2","people",8,4,2
+"428","Nazaré","2015","0.0","people",8,4,2
+"429","Óbidos","2015","0.4","people",8,4,2
+"430","Peniche","2015","0.0","people",8,4,2
+"431","Sobral de Monte Agraço","2015","0.2","people",8,4,2
+"432","Torres Vedras","2015","1.1","people",8,4,2
+"433","Alcobaça","2016","0.9","people",8,4,2
+"434","Alenquer","2016","0.7","people",8,4,2
+"435","Arruda dos Vinhos","2016","0.7","people",8,4,2
+"436","Bombarral","2016","0.5","people",8,4,2
+"437","Cadaval","2016","0.5","people",8,4,2
+"438","Caldas da Rainha","2016","0.2","people",8,4,2
+"439","Lourinhã","2016","0.5","people",8,4,2
+"440","Nazaré","2016","0.2","people",8,4,2
+"441","Óbidos","2016","0.2","people",8,4,2
+"442","Peniche","2016","0.0","people",8,4,2
+"443","Sobral de Monte Agraço","2016","0.0","people",8,4,2
+"444","Torres Vedras","2016","0.9","people",8,4,2
+"445","Alcobaça","2017","1.2","people",8,4,2
+"446","Alenquer","2017","0.4","people",8,4,2
+"447","Arruda dos Vinhos","2017","0.2","people",8,4,2
+"448","Bombarral","2017","0.0","people",8,4,2
+"449","Cadaval","2017","0.0","people",8,4,2
+"450","Caldas da Rainha","2017","0.8","people",8,4,2
+"451","Lourinhã","2017","0.0","people",8,4,2
+"452","Nazaré","2017","0.4","people",8,4,2
+"453","Óbidos","2017","0.2","people",8,4,2
+"454","Peniche","2017","0.0","people",8,4,2
+"455","Sobral de Monte Agraço","2017","0.2","people",8,4,2
+"456","Torres Vedras","2017","0.6","people",8,4,2
+"457","Alcobaça","2018","1.0","people",8,4,2
+"458","Alenquer","2018","0.6","people",8,4,2
+"459","Arruda dos Vinhos","2018","0.0","people",8,4,2
+"460","Bombarral","2018","0.2","people",8,4,2
+"461","Cadaval","2018","0.0","people",8,4,2
+"462","Caldas da Rainha","2018","0.2","people",8,4,2
+"463","Lourinhã","2018","0.2","people",8,4,2
+"464","Nazaré","2018","0.0","people",8,4,2
+"465","Óbidos","2018","0.2","people",8,4,2
+"466","Peniche","2018","0.4","people",8,4,2
+"467","Sobral de Monte Agraço","2018","0.2","people",8,4,2
+"468","Torres Vedras","2018","0.0","people",8,4,2
+"469","Alcobaça","2019","0.4","people",8,4,2
+"470","Alenquer","2019","0.2","people",8,4,2
+"471","Arruda dos Vinhos","2019","0.4","people",8,4,2
+"472","Bombarral","2019","0.0","people",8,4,2
+"473","Cadaval","2019","0.6","people",8,4,2
+"474","Caldas da Rainha","2019","0.0","people",8,4,2
+"475","Lourinhã","2019","0.2","people",8,4,2
+"476","Nazaré","2019","0.0","people",8,4,2
+"477","Óbidos","2019","0.4","people",8,4,2
+"478","Peniche","2019","0.4","people",8,4,2
+"479","Sobral de Monte Agraço","2019","0.2","people",8,4,2
+"480","Torres Vedras","2019","0.6","people",8,4,2
+"481","Alcobaça","2020","0.4","people",8,4,2
+"482","Alenquer","2020","0.2","people",8,4,2
+"483","Arruda dos Vinhos","2020","0.4","people",8,4,2
+"484","Bombarral","2020","0.0","people",8,4,2
+"485","Cadaval","2020","0.6","people",8,4,2
+"486","Caldas da Rainha","2020","0.0","people",8,4,2
+"487","Lourinhã","2020","0.2","people",8,4,2
+"488","Nazaré","2020","0.0","people",8,4,2
+"489","Óbidos","2020","0.4","people",8,4,2
+"490","Peniche","2020","0.4","people",8,4,2
+"491","Sobral de Monte Agraço","2020","0.2","people",8,4,2
+"492","Torres Vedras","2020","0.6","people",8,4,2
+"493","Alcobaça","2011","0.494","environment",5,5,3
+"494","Alenquer","2011","0.746","environment",5,5,3
+"495","Arruda dos Vinhos","2011","0.514","environment",5,5,3
+"496","Bombarral","2011","0.469","environment",5,5,3
+"497","Cadaval","2011","0.253","environment",5,5,3
+"498","Caldas da Rainha","2011","0.991","environment",5,5,3
+"499","Lourinhã","2011","0.456","environment",5,5,3
+"500","Nazaré","2011","0.3","environment",5,5,3
+"501","Óbidos","2011","0.313","environment",5,5,3
+"502","Peniche","2011","0.427","environment",5,5,3
+"503","Sobral de Monte Agraço","2011","0.323","environment",5,5,3
+"504","Torres Vedras","2011","0.528","environment",5,5,3
+"505","Alcobaça","2012","0.433","environment",5,5,3
+"506","Alenquer","2012","0.657","environment",5,5,3
+"507","Arruda dos Vinhos","2012","0.446","environment",5,5,3
+"508","Bombarral","2012","0.4","environment",5,5,3
+"509","Cadaval","2012","0.25","environment",5,5,3
+"510","Caldas da Rainha","2012","0.983","environment",5,5,3
+"511","Lourinhã","2012","0.426","environment",5,5,3
+"512","Nazaré","2012","0.271","environment",5,5,3
+"513","Óbidos","2012","0.324","environment",5,5,3
+"514","Peniche","2012","0.342","environment",5,5,3
+"515","Sobral de Monte Agraço","2012","0.321","environment",5,5,3
+"516","Torres Vedras","2012","0.575","environment",5,5,3
+"517","Alcobaça","2013","0.417","environment",5,5,3
+"518","Alenquer","2013","0.664","environment",5,5,3
+"519","Arruda dos Vinhos","2013","0.411","environment",5,5,3
+"520","Bombarral","2013","0.39","environment",5,5,3
+"521","Cadaval","2013","0.248","environment",5,5,3
+"522","Caldas da Rainha","2013","0.888","environment",5,5,3
+"523","Lourinhã","2013","0.566","environment",5,5,3
+"524","Nazaré","2013","0.291","environment",5,5,3
+"525","Óbidos","2013","0.307","environment",5,5,3
+"526","Peniche","2013","0.326","environment",5,5,3
+"527","Sobral de Monte Agraço","2013","0.324","environment",5,5,3
+"528","Torres Vedras","2013","0.623","environment",5,5,3
+"529","Alcobaça","2014","0.521","environment",5,5,3
+"530","Alenquer","2014","0.69","environment",5,5,3
+"531","Arruda dos Vinhos","2014","0.452","environment",5,5,3
+"532","Bombarral","2014","0.372","environment",5,5,3
+"533","Cadaval","2014","0.253","environment",5,5,3
+"534","Caldas da Rainha","2014","0.891","environment",5,5,3
+"535","Lourinhã","2014","0.479","environment",5,5,3
+"536","Nazaré","2014","0.324","environment",5,5,3
+"537","Óbidos","2014","0.319","environment",5,5,3
+"538","Peniche","2014","0.342","environment",5,5,3
+"539","Sobral de Monte Agraço","2014","0.31","environment",5,5,3
+"540","Torres Vedras","2014","0.666","environment",5,5,3
+"541","Alcobaça","2015","0.814","environment",5,5,3
+"542","Alenquer","2015","0.613","environment",5,5,3
+"543","Arruda dos Vinhos","2015","0.427","environment",5,5,3
+"544","Bombarral","2015","0.387","environment",5,5,3
+"545","Cadaval","2015","0.306","environment",5,5,3
+"546","Caldas da Rainha","2015","0.883","environment",5,5,3
+"547","Lourinhã","2015","0.46","environment",5,5,3
+"548","Nazaré","2015","0.349","environment",5,5,3
+"549","Óbidos","2015","0.429","environment",5,5,3
+"550","Peniche","2015","0.47","environment",5,5,3
+"551","Sobral de Monte Agraço","2015","0.254","environment",5,5,3
+"552","Torres Vedras","2015","0.856","environment",5,5,3
+"553","Alcobaça","2016","0.552","environment",5,5,3
+"554","Alenquer","2016","0.64","environment",5,5,3
+"555","Arruda dos Vinhos","2016","0.415","environment",5,5,3
+"556","Bombarral","2016","0.423","environment",5,5,3
+"557","Cadaval","2016","0.167","environment",5,5,3
+"558","Caldas da Rainha","2016","0.967","environment",5,5,3
+"559","Lourinhã","2016","0.377","environment",5,5,3
+"560","Nazaré","2016","1.292","environment",5,5,3
+"561","Óbidos","2016","0.51","environment",5,5,3
+"562","Peniche","2016","0.346","environment",5,5,3
+"563","Sobral de Monte Agraço","2016","0.286","environment",5,5,3
+"564","Torres Vedras","2016","0.682","environment",5,5,3
+"565","Alcobaça","2017","0.606","environment",5,5,3
+"566","Alenquer","2017","0.711","environment",5,5,3
+"567","Arruda dos Vinhos","2017","0.363","environment",5,5,3
+"568","Bombarral","2017","0.502","environment",5,5,3
+"569","Cadaval","2017","0.21","environment",5,5,3
+"570","Caldas da Rainha","2017","0.931","environment",5,5,3
+"571","Lourinhã","2017","0.406","environment",5,5,3
+"572","Nazaré","2017","0.393","environment",5,5,3
+"573","Óbidos","2017","0.437","environment",5,5,3
+"574","Peniche","2017","0.346","environment",5,5,3
+"575","Sobral de Monte Agraço","2017","0.301","environment",5,5,3
+"576","Torres Vedras","2017","0.695","environment",5,5,3
+"577","Alcobaça","2018","0.656","environment",5,5,3
+"578","Alenquer","2018","0.671","environment",5,5,3
+"579","Arruda dos Vinhos","2018","0.369","environment",5,5,3
+"580","Bombarral","2018","0.463","environment",5,5,3
+"581","Cadaval","2018","0.203","environment",5,5,3
+"582","Caldas da Rainha","2018","0.923","environment",5,5,3
+"583","Lourinhã","2018","0.407","environment",5,5,3
+"584","Nazaré","2018","0.403","environment",5,5,3
+"585","Óbidos","2018","0.419","environment",5,5,3
+"586","Peniche","2018","0.319","environment",5,5,3
+"587","Sobral de Monte Agraço","2018","0.309","environment",5,5,3
+"588","Torres Vedras","2018","0.662","environment",5,5,3
+"589","Alcobaça","2019","0.695","environment",5,5,3
+"590","Alenquer","2019","0.715","environment",5,5,3
+"591","Arruda dos Vinhos","2019","0.384","environment",5,5,3
+"592","Bombarral","2019","0.423","environment",5,5,3
+"593","Cadaval","2019","0.233","environment",5,5,3
+"594","Caldas da Rainha","2019","0.88","environment",5,5,3
+"595","Lourinhã","2019","0.449","environment",5,5,3
+"596","Nazaré","2019","0.41","environment",5,5,3
+"597","Óbidos","2019","0.471","environment",5,5,3
+"598","Peniche","2019","0.365","environment",5,5,3
+"599","Sobral de Monte Agraço","2019","0.307","environment",5,5,3
+"600","Torres Vedras","2019","0.651","environment",5,5,3
+"601","Alcobaça","2020","0.695","environment",5,5,3
+"602","Alenquer","2020","0.715","environment",5,5,3
+"603","Arruda dos Vinhos","2020","0.384","environment",5,5,3
+"604","Bombarral","2020","0.423","environment",5,5,3
+"605","Cadaval","2020","0.233","environment",5,5,3
+"606","Caldas da Rainha","2020","0.88","environment",5,5,3
+"607","Lourinhã","2020","0.449","environment",5,5,3
+"608","Nazaré","2020","0.41","environment",5,5,3
+"609","Óbidos","2020","0.471","environment",5,5,3
+"610","Peniche","2020","0.365","environment",5,5,3
+"611","Sobral de Monte Agraço","2020","0.307","environment",5,5,3
+"612","Torres Vedras","2020","0.651","environment",5,5,3
+"613","Alcobaça","2009","5","economy",6,5,3
+"614","Alenquer","2009","6","economy",6,5,3
+"615","Arruda dos Vinhos","2009","1","economy",6,5,3
+"616","Bombarral","2009","2","economy",6,5,3
+"617","Cadaval","2009","1","economy",6,5,3
+"618","Caldas da Rainha","2009","14","economy",6,5,3
+"619","Lourinhã","2009","4","economy",6,5,3
+"620","Nazaré","2009","2","economy",6,5,3
+"621","Óbidos","2009","1","economy",6,5,3
+"622","Peniche","2009","1","economy",6,5,3
+"623","Sobral de Monte Agraço","2009","2","economy",6,5,3
+"624","Torres Vedras","2009","10","economy",6,5,3
+"625","Alcobaça","2010","9","economy",6,5,3
+"626","Alenquer","2010","2","economy",6,5,3
+"627","Arruda dos Vinhos","2010","3","economy",6,5,3
+"628","Bombarral","2010","0","economy",6,5,3
+"629","Cadaval","2010","2","economy",6,5,3
+"630","Caldas da Rainha","2010","9","economy",6,5,3
+"631","Lourinhã","2010","3","economy",6,5,3
+"632","Nazaré","2010","2","economy",6,5,3
+"633","Óbidos","2010","1","economy",6,5,3
+"634","Peniche","2010","2","economy",6,5,3
+"635","Sobral de Monte Agraço","2010","1","economy",6,5,3
+"636","Torres Vedras","2010","8","economy",6,5,3
+"637","Alcobaça","2011","5","economy",6,5,3
+"638","Alenquer","2011","0","economy",6,5,3
+"639","Arruda dos Vinhos","2011","2","economy",6,5,3
+"640","Bombarral","2011","1","economy",6,5,3
+"641","Cadaval","2011","0","economy",6,5,3
+"642","Caldas da Rainha","2011","6","economy",6,5,3
+"643","Lourinhã","2011","3","economy",6,5,3
+"644","Nazaré","2011","2","economy",6,5,3
+"645","Óbidos","2011","6","economy",6,5,3
+"646","Peniche","2011","3","economy",6,5,3
+"647","Sobral de Monte Agraço","2011","0","economy",6,5,3
+"648","Torres Vedras","2011","8","economy",6,5,3
+"649","Alcobaça","2012","10","economy",6,5,3
+"650","Alenquer","2012","2","economy",6,5,3
+"651","Arruda dos Vinhos","2012","2","economy",6,5,3
+"652","Bombarral","2012","2","economy",6,5,3
+"653","Cadaval","2012","2","economy",6,5,3
+"654","Caldas da Rainha","2012","10","economy",6,5,3
+"655","Lourinhã","2012","7","economy",6,5,3
+"656","Nazaré","2012","2","economy",6,5,3
+"657","Óbidos","2012","0","economy",6,5,3
+"658","Peniche","2012","1","economy",6,5,3
+"659","Sobral de Monte Agraço","2012","4","economy",6,5,3
+"660","Torres Vedras","2012","10","economy",6,5,3
+"661","Alcobaça","2013","7","economy",6,5,3
+"662","Alenquer","2013","7","economy",6,5,3
+"663","Arruda dos Vinhos","2013","4","economy",6,5,3
+"664","Bombarral","2013","1","economy",6,5,3
+"665","Cadaval","2013","1","economy",6,5,3
+"666","Caldas da Rainha","2013","11","economy",6,5,3
+"667","Lourinhã","2013","2","economy",6,5,3
+"668","Nazaré","2013","2","economy",6,5,3
+"669","Óbidos","2013","3","economy",6,5,3
+"670","Peniche","2013","2","economy",6,5,3
+"671","Sobral de Monte Agraço","2013","0","economy",6,5,3
+"672","Torres Vedras","2013","9","economy",6,5,3
+"673","Alcobaça","2014","2","economy",6,5,3
+"674","Alenquer","2014","7","economy",6,5,3
+"675","Arruda dos Vinhos","2014","3","economy",6,5,3
+"676","Bombarral","2014","2","economy",6,5,3
+"677","Cadaval","2014","2","economy",6,5,3
+"678","Caldas da Rainha","2014","9","economy",6,5,3
+"679","Lourinhã","2014","3","economy",6,5,3
+"680","Nazaré","2014","2","economy",6,5,3
+"681","Óbidos","2014","8","economy",6,5,3
+"682","Peniche","2014","2","economy",6,5,3
+"683","Sobral de Monte Agraço","2014","0","economy",6,5,3
+"684","Torres Vedras","2014","19","economy",6,5,3
+"685","Alcobaça","2015","8","economy",6,5,3
+"686","Alenquer","2015","4","economy",6,5,3
+"687","Arruda dos Vinhos","2015","3","economy",6,5,3
+"688","Bombarral","2015","0","economy",6,5,3
+"689","Cadaval","2015","1","economy",6,5,3
+"690","Caldas da Rainha","2015","11","economy",6,5,3
+"691","Lourinhã","2015","3","economy",6,5,3
+"692","Nazaré","2015","2","economy",6,5,3
+"693","Óbidos","2015","7","economy",6,5,3
+"694","Peniche","2015","4","economy",6,5,3
+"695","Sobral de Monte Agraço","2015","2","economy",6,5,3
+"696","Torres Vedras","2015","10","economy",6,5,3
+"697","Alcobaça","2016","9","economy",6,5,3
+"698","Alenquer","2016","4","economy",6,5,3
+"699","Arruda dos Vinhos","2016","4","economy",6,5,3
+"700","Bombarral","2016","0","economy",6,5,3
+"701","Cadaval","2016","4","economy",6,5,3
+"702","Caldas da Rainha","2016","7","economy",6,5,3
+"703","Lourinhã","2016","8","economy",6,5,3
+"704","Nazaré","2016","1","economy",6,5,3
+"705","Óbidos","2016","5","economy",6,5,3
+"706","Peniche","2016","6","economy",6,5,3
+"707","Sobral de Monte Agraço","2016","2","economy",6,5,3
+"708","Torres Vedras","2016","22","economy",6,5,3
+"709","Alcobaça","2017","13","economy",6,5,3
+"710","Alenquer","2017","4","economy",6,5,3
+"711","Arruda dos Vinhos","2017","7","economy",6,5,3
+"712","Bombarral","2017","0","economy",6,5,3
+"713","Cadaval","2017","0","economy",6,5,3
+"714","Caldas da Rainha","2017","15","economy",6,5,3
+"715","Lourinhã","2017","4","economy",6,5,3
+"716","Nazaré","2017","3","economy",6,5,3
+"717","Óbidos","2017","2","economy",6,5,3
+"718","Peniche","2017","3","economy",6,5,3
+"719","Sobral de Monte Agraço","2017","0","economy",6,5,3
+"720","Torres Vedras","2017","19","economy",6,5,3
+"721","Alcobaça","2018","5","economy",6,5,3
+"722","Alenquer","2018","7","economy",6,5,3
+"723","Arruda dos Vinhos","2018","5","economy",6,5,3
+"724","Bombarral","2018","1","economy",6,5,3
+"725","Cadaval","2018","1","economy",6,5,3
+"726","Caldas da Rainha","2018","10","economy",6,5,3
+"727","Lourinhã","2018","2","economy",6,5,3
+"728","Nazaré","2018","2","economy",6,5,3
+"729","Óbidos","2018","7","economy",6,5,3
+"730","Peniche","2018","3","economy",6,5,3
+"731","Sobral de Monte Agraço","2018","2","economy",6,5,3
+"732","Torres Vedras","2018","20","economy",6,5,3
+"733","Alcobaça","2019","6","economy",6,5,3
+"734","Alenquer","2019","6","economy",6,5,3
+"735","Arruda dos Vinhos","2019","3","economy",6,5,3
+"736","Bombarral","2019","2","economy",6,5,3
+"737","Cadaval","2019","0","economy",6,5,3
+"738","Caldas da Rainha","2019","15","economy",6,5,3
+"739","Lourinhã","2019","7","economy",6,5,3
+"740","Nazaré","2019","2","economy",6,5,3
+"741","Óbidos","2019","5","economy",6,5,3
+"742","Peniche","2019","2","economy",6,5,3
+"743","Sobral de Monte Agraço","2019","2","economy",6,5,3
+"744","Torres Vedras","2019","22","economy",6,5,3
+"745","Alcobaça","2020","6","economy",6,5,3
+"746","Alenquer","2020","6","economy",6,5,3
+"747","Arruda dos Vinhos","2020","3","economy",6,5,3
+"748","Bombarral","2020","2","economy",6,5,3
+"749","Cadaval","2020","0","economy",6,5,3
+"750","Caldas da Rainha","2020","15","economy",6,5,3
+"751","Lourinhã","2020","7","economy",6,5,3
+"752","Nazaré","2020","2","economy",6,5,3
+"753","Óbidos","2020","5","economy",6,5,3
+"754","Peniche","2020","2","economy",6,5,3
+"755","Sobral de Monte Agraço","2020","2","economy",6,5,3
+"756","Torres Vedras","2020","22","economy",6,5,3
+"757","Alcobaça","2009","90.6","people",2,4,4
+"758","Alenquer","2009","91.1","people",2,4,4
+"759","Arruda dos Vinhos","2009","97.3","people",2,4,4
+"760","Bombarral","2009","97.7","people",2,4,4
+"761","Cadaval","2009","93.9","people",2,4,4
+"762","Caldas da Rainha","2009","89.5","people",2,4,4
+"763","Lourinhã","2009","92.2","people",2,4,4
+"764","Nazaré","2009","98.8","people",2,4,4
+"765","Óbidos","2009","83.9","people",2,4,4
+"766","Peniche","2009","95.7","people",2,4,4
+"767","Sobral de Monte Agraço","2009","91.0","people",2,4,4
+"768","Torres Vedras","2009","89.1","people",2,4,4
+"769","Alcobaça","2010","90.0","people",2,4,4
+"770","Alenquer","2010","89.9","people",2,4,4
+"771","Arruda dos Vinhos","2010","86.1","people",2,4,4
+"772","Bombarral","2010","91.4","people",2,4,4
+"773","Cadaval","2010","91.2","people",2,4,4
+"774","Caldas da Rainha","2010","90.5","people",2,4,4
+"775","Lourinhã","2010","90.8","people",2,4,4
+"776","Nazaré","2010","97.3","people",2,4,4
+"777","Óbidos","2010","86.0","people",2,4,4
+"778","Peniche","2010","95.3","people",2,4,4
+"779","Sobral de Monte Agraço","2010","90.5","people",2,4,4
+"780","Torres Vedras","2010","90.5","people",2,4,4
+"781","Alcobaça","2011","85.7","people",2,4,4
+"782","Alenquer","2011","87.5","people",2,4,4
+"783","Arruda dos Vinhos","2011","90.9","people",2,4,4
+"784","Bombarral","2011","82.6","people",2,4,4
+"785","Cadaval","2011","91.0","people",2,4,4
+"786","Caldas da Rainha","2011","89.5","people",2,4,4
+"787","Lourinhã","2011","90.5","people",2,4,4
+"788","Nazaré","2011","95.2","people",2,4,4
+"789","Óbidos","2011","93.8","people",2,4,4
+"790","Peniche","2011","95.6","people",2,4,4
+"791","Sobral de Monte Agraço","2011","90.2","people",2,4,4
+"792","Torres Vedras","2011","90.9","people",2,4,4
+"793","Alcobaça","2012","77.3","people",2,4,4
+"794","Alenquer","2012","87.2","people",2,4,4
+"795","Arruda dos Vinhos","2012","87.3","people",2,4,4
+"796","Bombarral","2012","70.4","people",2,4,4
+"797","Cadaval","2012","89.6","people",2,4,4
+"798","Caldas da Rainha","2012","83.8","people",2,4,4
+"799","Lourinhã","2012","86.4","people",2,4,4
+"800","Nazaré","2012","84.8","people",2,4,4
+"801","Óbidos","2012","93.8","people",2,4,4
+"802","Peniche","2012","91.3","people",2,4,4
+"803","Sobral de Monte Agraço","2012","83.7","people",2,4,4
+"804","Torres Vedras","2012","86.9","people",2,4,4
+"805","Alcobaça","2013","76.7","people",2,4,4
+"806","Alenquer","2013","87.6","people",2,4,4
+"807","Arruda dos Vinhos","2013","83.0","people",2,4,4
+"808","Bombarral","2013","84.7","people",2,4,4
+"809","Cadaval","2013","90.6","people",2,4,4
+"810","Caldas da Rainha","2013","85.7","people",2,4,4
+"811","Lourinhã","2013","80.7","people",2,4,4
+"812","Nazaré","2013","68.2","people",2,4,4
+"813","Óbidos","2013","93.8","people",2,4,4
+"814","Peniche","2013","78.2","people",2,4,4
+"815","Sobral de Monte Agraço","2013","87.8","people",2,4,4
+"816","Torres Vedras","2013","81.4","people",2,4,4
+"817","Alcobaça","2014","75.2","people",2,4,4
+"818","Alenquer","2014","87.5","people",2,4,4
+"819","Arruda dos Vinhos","2014","82.1","people",2,4,4
+"820","Bombarral","2014","86.5","people",2,4,4
+"821","Cadaval","2014","90.2","people",2,4,4
+"822","Caldas da Rainha","2014","81.0","people",2,4,4
+"823","Lourinhã","2014","79.1","people",2,4,4
+"824","Nazaré","2014","82.1","people",2,4,4
+"825","Óbidos","2014","92.8","people",2,4,4
+"826","Peniche","2014","90.8","people",2,4,4
+"827","Sobral de Monte Agraço","2014","87.9","people",2,4,4
+"828","Torres Vedras","2014","87.2","people",2,4,4
+"829","Alcobaça","2015","81.6","people",2,4,4
+"830","Alenquer","2015","91.4","people",2,4,4
+"831","Arruda dos Vinhos","2015","87.6","people",2,4,4
+"832","Bombarral","2015","86.8","people",2,4,4
+"833","Cadaval","2015","90.5","people",2,4,4
+"834","Caldas da Rainha","2015","85.1","people",2,4,4
+"835","Lourinhã","2015","82.0","people",2,4,4
+"836","Nazaré","2015","81.4","people",2,4,4
+"837","Óbidos","2015","72.5","people",2,4,4
+"838","Peniche","2015","75.8","people",2,4,4
+"839","Sobral de Monte Agraço","2015","92.3","people",2,4,4
+"840","Torres Vedras","2015","86.5","people",2,4,4
+"841","Alcobaça","2016","83.5","people",2,4,4
+"842","Alenquer","2016","89.5","people",2,4,4
+"843","Arruda dos Vinhos","2016","89.7","people",2,4,4
+"844","Bombarral","2016","89.5","people",2,4,4
+"845","Cadaval","2016","89.2","people",2,4,4
+"846","Caldas da Rainha","2016","85.3","people",2,4,4
+"847","Lourinhã","2016","71.7","people",2,4,4
+"848","Nazaré","2016","76.7","people",2,4,4
+"849","Óbidos","2016","76.1","people",2,4,4
+"850","Peniche","2016","80.5","people",2,4,4
+"851","Sobral de Monte Agraço","2016","90.9","people",2,4,4
+"852","Torres Vedras","2016","89.6","people",2,4,4
+"853","Alcobaça","2017","89.7","people",2,4,4
+"854","Alenquer","2017","89.1","people",2,4,4
+"855","Arruda dos Vinhos","2017","54.9","people",2,4,4
+"856","Bombarral","2017","90.9","people",2,4,4
+"857","Cadaval","2017","94.8","people",2,4,4
+"858","Caldas da Rainha","2017","90.2","people",2,4,4
+"859","Lourinhã","2017","93.2","people",2,4,4
+"860","Nazaré","2017","76.2","people",2,4,4
+"861","Óbidos","2017","84.4","people",2,4,4
+"862","Peniche","2017","94.1","people",2,4,4
+"863","Sobral de Monte Agraço","2017","92.5","people",2,4,4
+"864","Torres Vedras","2017","93.2","people",2,4,4
+"865","Alcobaça","2018","97.0","people",2,4,4
+"866","Alenquer","2018","97.8","people",2,4,4
+"867","Arruda dos Vinhos","2018","93.2","people",2,4,4
+"868","Bombarral","2018","95.6","people",2,4,4
+"869","Cadaval","2018","89.8","people",2,4,4
+"870","Caldas da Rainha","2018","90.6","people",2,4,4
+"871","Lourinhã","2018","91.6","people",2,4,4
+"872","Nazaré","2018","98.6","people",2,4,4
+"873","Óbidos","2018","97.2","people",2,4,4
+"874","Peniche","2018","94.4","people",2,4,4
+"875","Sobral de Monte Agraço","2018","94.0","people",2,4,4
+"876","Torres Vedras","2018","94.2","people",2,4,4
+"877","Alcobaça","2019","98.7","people",2,4,4
+"878","Alenquer","2019","94.9","people",2,4,4
+"879","Arruda dos Vinhos","2019","81.3","people",2,4,4
+"880","Bombarral","2019","95.4","people",2,4,4
+"881","Cadaval","2019","94.9","people",2,4,4
+"882","Caldas da Rainha","2019","89.2","people",2,4,4
+"883","Lourinhã","2019","99.8","people",2,4,4
+"884","Nazaré","2019","78.2","people",2,4,4
+"885","Óbidos","2019","98.4","people",2,4,4
+"886","Peniche","2019","99.6","people",2,4,4
+"887","Sobral de Monte Agraço","2019","99.5","people",2,4,4
+"888","Torres Vedras","2019","97.4","people",2,4,4
+"889","Alcobaça","2020","96.5","people",2,4,4
+"890","Alenquer","2020","96.2","people",2,4,4
+"891","Arruda dos Vinhos","2020","84.1","people",2,4,4
+"892","Bombarral","2020","96.5","people",2,4,4
+"893","Cadaval","2020","92.6","people",2,4,4
+"894","Caldas da Rainha","2020","94.6","people",2,4,4
+"895","Lourinhã","2020","99.0","people",2,4,4
+"896","Nazaré","2020","92.0","people",2,4,4
+"897","Óbidos","2020","78.9","people",2,4,4
+"898","Peniche","2020","90.3","people",2,4,4
+"899","Sobral de Monte Agraço","2020","99.5","people",2,4,4
+"900","Torres Vedras","2020","97.7","people",2,4,4
+"901","Alcobaça","2000","0.5","people",7,4,2
+"902","Alenquer","2000","1.0","people",7,4,2
+"903","Arruda dos Vinhos","2000","0.0","people",7,4,2
+"904","Bombarral","2000","0.0","people",7,4,2
+"905","Cadaval","2000","0.0","people",7,4,2
+"906","Caldas da Rainha","2000","1.0","people",7,4,2
+"907","Lourinhã","2000","0.5","people",7,4,2
+"908","Nazaré","2000","1.0","people",7,4,2
+"909","Óbidos","2000","0.5","people",7,4,2
+"910","Peniche","2000","0.5","people",7,4,2
+"911","Sobral de Monte Agraço","2000","0.0","people",7,4,2
+"912","Torres Vedras","2000","0.5","people",7,4,2
+"913","Alcobaça","2001","- 0.9","people",7,4,2
+"914","Alenquer","2001","- 1.3","people",7,4,2
+"915","Arruda dos Vinhos","2001","- 0.0","people",7,4,2
+"916","Bombarral","2001","- 0.4","people",7,4,2
+"917","Cadaval","2001","- 0.0","people",7,4,2
+"918","Caldas da Rainha","2001","- 0.9","people",7,4,2
+"919","Lourinhã","2001","- 0.4","people",7,4,2
+"920","Nazaré","2001","- 0.4","people",7,4,2
+"921","Óbidos","2001","- 0.4","people",7,4,2
+"922","Peniche","2001","- 0.4","people",7,4,2
+"923","Sobral de Monte Agraço","2001","- 0.0","people",7,4,2
+"924","Torres Vedras","2001","- 0.4","people",7,4,2
+"925","Alcobaça","2009","- 0.0","people",7,4,2
+"926","Alenquer","2009","- 0.9","people",7,4,2
+"927","Arruda dos Vinhos","2009","- 0.0","people",7,4,2
+"928","Bombarral","2009","- 0.3","people",7,4,2
+"929","Cadaval","2009","- 0.3","people",7,4,2
+"930","Caldas da Rainha","2009","- 0.9","people",7,4,2
+"931","Lourinhã","2009","- 0.3","people",7,4,2
+"932","Nazaré","2009","- 0.6","people",7,4,2
+"933","Óbidos","2009","- 0.3","people",7,4,2
+"934","Peniche","2009","- 0.3","people",7,4,2
+"935","Sobral de Monte Agraço","2009","- 0.0","people",7,4,2
+"936","Torres Vedras","2009","- 0.3","people",7,4,2
+"937","Alcobaça","2010","0.0","people",7,4,2
+"938","Alenquer","2010","0.6","people",7,4,2
+"939","Arruda dos Vinhos","2010","0.0","people",7,4,2
+"940","Bombarral","2010","0.3","people",7,4,2
+"941","Cadaval","2010","0.3","people",7,4,2
+"942","Caldas da Rainha","2010","1.2","people",7,4,2
+"943","Lourinhã","2010","0.3","people",7,4,2
+"944","Nazaré","2010","0.3","people",7,4,2
+"945","Óbidos","2010","0.3","people",7,4,2
+"946","Peniche","2010","0.3","people",7,4,2
+"947","Sobral de Monte Agraço","2010","0.0","people",7,4,2
+"948","Torres Vedras","2010","0.3","people",7,4,2
+"949","Alcobaça","2011","0.0","people",7,4,2
+"950","Alenquer","2011","0.5","people",7,4,2
+"951","Arruda dos Vinhos","2011","0.0","people",7,4,2
+"952","Bombarral","2011","0.3","people",7,4,2
+"953","Cadaval","2011","0.3","people",7,4,2
+"954","Caldas da Rainha","2011","1.1","people",7,4,2
+"955","Lourinhã","2011","0.3","people",7,4,2
+"956","Nazaré","2011","0.3","people",7,4,2
+"957","Óbidos","2011","0.3","people",7,4,2
+"958","Peniche","2011","0.0","people",7,4,2
+"959","Sobral de Monte Agraço","2011","0.0","people",7,4,2
+"960","Torres Vedras","2011","0.3","people",7,4,2
+"961","Alcobaça","2012","- 0.3","people",7,4,2
+"962","Alenquer","2012","- 0.3","people",7,4,2
+"963","Arruda dos Vinhos","2012","- 0.0","people",7,4,2
+"964","Bombarral","2012","- 0.3","people",7,4,2
+"965","Cadaval","2012","- 0.3","people",7,4,2
+"966","Caldas da Rainha","2012","- 0.9","people",7,4,2
+"967","Lourinhã","2012","- 0.3","people",7,4,2
+"968","Nazaré","2012","- 0.6","people",7,4,2
+"969","Óbidos","2012","- 0.3","people",7,4,2
+"970","Peniche","2012","- 0.3","people",7,4,2
+"971","Sobral de Monte Agraço","2012","- 0.0","people",7,4,2
+"972","Torres Vedras","2012","- 0.3","people",7,4,2
+"973","Alcobaça","2013","0.6","people",7,4,2
+"974","Alenquer","2013","0.0","people",7,4,2
+"975","Arruda dos Vinhos","2013","0.0","people",7,4,2
+"976","Bombarral","2013","0.3","people",7,4,2
+"977","Cadaval","2013","0.3","people",7,4,2
+"978","Caldas da Rainha","2013","1.1","people",7,4,2
+"979","Lourinhã","2013","0.3","people",7,4,2
+"980","Nazaré","2013","0.6","people",7,4,2
+"981","Óbidos","2013","0.3","people",7,4,2
+"982","Peniche","2013","0.3","people",7,4,2
+"983","Sobral de Monte Agraço","2013","0.0","people",7,4,2
+"984","Torres Vedras","2013","0.3","people",7,4,2
+"985","Alcobaça","2014","0.5","people",7,4,2
+"986","Alenquer","2014","0.0","people",7,4,2
+"987","Arruda dos Vinhos","2014","0.0","people",7,4,2
+"988","Bombarral","2014","0.3","people",7,4,2
+"989","Cadaval","2014","0.3","people",7,4,2
+"990","Caldas da Rainha","2014","1.0","people",7,4,2
+"991","Lourinhã","2014","0.3","people",7,4,2
+"992","Nazaré","2014","0.5","people",7,4,2
+"993","Óbidos","2014","0.3","people",7,4,2
+"994","Peniche","2014","0.3","people",7,4,2
+"995","Sobral de Monte Agraço","2014","0.0","people",7,4,2
+"996","Torres Vedras","2014","0.3","people",7,4,2
+"997","Alcobaça","2015","0.5","people",7,4,2
+"998","Alenquer","2015","0.3","people",7,4,2
+"999","Arruda dos Vinhos","2015","0.0","people",7,4,2
+"1000","Bombarral","2015","0.3","people",7,4,2
+"1001","Cadaval","2015","0.3","people",7,4,2
+"1002","Caldas da Rainha","2015","0.8","people",7,4,2
+"1003","Lourinhã","2015","0.3","people",7,4,2
+"1004","Nazaré","2015","0.5","people",7,4,2
+"1005","Óbidos","2015","0.3","people",7,4,2
+"1006","Peniche","2015","0.3","people",7,4,2
+"1007","Sobral de Monte Agraço","2015","0.0","people",7,4,2
+"1008","Torres Vedras","2015","0.3","people",7,4,2
+"1009","Alcobaça","2016","0.5","people",7,4,2
+"1010","Alenquer","2016","0.3","people",7,4,2
+"1011","Arruda dos Vinhos","2016","0.0","people",7,4,2
+"1012","Bombarral","2016","0.3","people",7,4,2
+"1013","Cadaval","2016","0.3","people",7,4,2
+"1014","Caldas da Rainha","2016","0.7","people",7,4,2
+"1015","Lourinhã","2016","0.3","people",7,4,2
+"1016","Nazaré","2016","0.5","people",7,4,2
+"1017","Óbidos","2016","0.3","people",7,4,2
+"1018","Peniche","2016","0.7","people",7,4,2
+"1019","Sobral de Monte Agraço","2016","0.0","people",7,4,2
+"1020","Torres Vedras","2016","0.3","people",7,4,2
+"1021","Alcobaça","2017","0.5","people",7,4,2
+"1022","Alenquer","2017","0.5","people",7,4,2
+"1023","Arruda dos Vinhos","2017","0.0","people",7,4,2
+"1024","Bombarral","2017","0.2","people",7,4,2
+"1025","Cadaval","2017","0.2","people",7,4,2
+"1026","Caldas da Rainha","2017","1.4","people",7,4,2
+"1027","Lourinhã","2017","0.2","people",7,4,2
+"1028","Nazaré","2017","0.5","people",7,4,2
+"1029","Óbidos","2017","0.2","people",7,4,2
+"1030","Peniche","2017","0.7","people",7,4,2
+"1031","Sobral de Monte Agraço","2017","0.0","people",7,4,2
+"1032","Torres Vedras","2017","0.2","people",7,4,2
+"1033","Alcobaça","2018","0.5","people",7,4,2
+"1034","Alenquer","2018","0.5","people",7,4,2
+"1035","Arruda dos Vinhos","2018","0.0","people",7,4,2
+"1036","Bombarral","2018","0.2","people",7,4,2
+"1037","Cadaval","2018","0.2","people",7,4,2
+"1038","Caldas da Rainha","2018","1.2","people",7,4,2
+"1039","Lourinhã","2018","0.2","people",7,4,2
+"1040","Nazaré","2018","0.5","people",7,4,2
+"1041","Óbidos","2018","0.2","people",7,4,2
+"1042","Peniche","2018","0.5","people",7,4,2
+"1043","Sobral de Monte Agraço","2018","0.0","people",7,4,2
+"1044","Torres Vedras","2018","0.2","people",7,4,2
+"1045","Alcobaça","2019","0.5","people",7,4,2
+"1046","Alenquer","2019","0.5","people",7,4,2
+"1047","Arruda dos Vinhos","2019","0.0","people",7,4,2
+"1048","Bombarral","2019","0.2","people",7,4,2
+"1049","Cadaval","2019","0.2","people",7,4,2
+"1050","Caldas da Rainha","2019","1.4","people",7,4,2
+"1051","Lourinhã","2019","0.2","people",7,4,2
+"1052","Nazaré","2019","0.5","people",7,4,2
+"1053","Óbidos","2019","0.2","people",7,4,2
+"1054","Peniche","2019","0.5","people",7,4,2
+"1055","Sobral de Monte Agraço","2019","0.0","people",7,4,2
+"1056","Torres Vedras","2019","0.2","people",7,4,2
+"1057","Alcobaça","2020","0.5","people",7,4,2
+"1058","Alenquer","2020","0.5","people",7,4,2
+"1059","Arruda dos Vinhos","2020","0.0","people",7,4,2
+"1060","Bombarral","2020","0.2","people",7,4,2
+"1061","Cadaval","2020","0.2","people",7,4,2
+"1062","Caldas da Rainha","2020","1.5","people",7,4,2
+"1063","Lourinhã","2020","0.2","people",7,4,2
+"1064","Nazaré","2020","0.2","people",7,4,2
+"1065","Óbidos","2020","0.5","people",7,4,2
+"1066","Peniche","2020","0.5","people",7,4,2
+"1067","Sobral de Monte Agraço","2020","0.0","people",7,4,2
+"1068","Torres Vedras","2020","0.2","people",7,4,2
+"1069","Alcobaça","1995","100","environment",13,5,3
+"1070","Alenquer","1995","97","environment",13,5,3
+"1071","Arruda dos Vinhos","1995","92","environment",13,5,3
+"1072","Bombarral","1995","93","environment",13,5,3
+"1073","Cadaval","1995","93","environment",13,5,3
+"1074","Caldas da Rainha","1995","99","environment",13,5,3
+"1075","Lourinhã","1995","99","environment",13,5,3
+"1076","Nazaré","1995","100","environment",13,5,3
+"1077","Óbidos","1995","100","environment",13,5,3
+"1078","Peniche","1995","100","environment",13,5,3
+"1079","Sobral de Monte Agraço","1995","92","environment",13,5,3
+"1080","Torres Vedras","1995","90","environment",13,5,3
+"1081","Alcobaça","2001","100","environment",13,5,3
+"1082","Alenquer","2001","98","environment",13,5,3
+"1083","Arruda dos Vinhos","2001","98","environment",13,5,3
+"1084","Bombarral","2001","100","environment",13,5,3
+"1085","Cadaval","2001","98","environment",13,5,3
+"1086","Caldas da Rainha","2001","99","environment",13,5,3
+"1087","Lourinhã","2001","98","environment",13,5,3
+"1088","Nazaré","2001","100","environment",13,5,3
+"1089","Óbidos","2001","99","environment",13,5,3
+"1090","Peniche","2001","100","environment",13,5,3
+"1091","Sobral de Monte Agraço","2001","99","environment",13,5,3
+"1092","Torres Vedras","2001","100","environment",13,5,3
+"1093","Alcobaça","2008","- 99","environment",13,5,3
+"1094","Alenquer","2008","- x","environment",13,5,3
+"1095","Arruda dos Vinhos","2008","- 98","environment",13,5,3
+"1096","Bombarral","2008","- x","environment",13,5,3
+"1097","Cadaval","2008","- 92","environment",13,5,3
+"1098","Caldas da Rainha","2008","- 100","environment",13,5,3
+"1099","Lourinhã","2008","- x","environment",13,5,3
+"1100","Nazaré","2008","- 100","environment",13,5,3
+"1101","Óbidos","2008","- 100","environment",13,5,3
+"1102","Peniche","2008","- 88","environment",13,5,3
+"1103","Sobral de Monte Agraço","2008","- 100","environment",13,5,3
+"1104","Torres Vedras","2008","- 100","environment",13,5,3
+"1105","Alcobaça","2009","99","environment",13,5,3
+"1106","Alenquer","2009","91","environment",13,5,3
+"1107","Arruda dos Vinhos","2009","97","environment",13,5,3
+"1108","Bombarral","2009","x","environment",13,5,3
+"1109","Cadaval","2009","94","environment",13,5,3
+"1110","Caldas da Rainha","2009","x","environment",13,5,3
+"1111","Lourinhã","2009","x","environment",13,5,3
+"1112","Nazaré","2009","100","environment",13,5,3
+"1113","Óbidos","2009","100","environment",13,5,3
+"1114","Peniche","2009","88","environment",13,5,3
+"1115","Sobral de Monte Agraço","2009","100","environment",13,5,3
+"1116","Torres Vedras","2009","100","environment",13,5,3
+"1117","Alcobaça","2010","x","environment",13,5,3
+"1118","Alenquer","2010","x","environment",13,5,3
+"1119","Arruda dos Vinhos","2010","x","environment",13,5,3
+"1120","Bombarral","2010","x","environment",13,5,3
+"1121","Cadaval","2010","x","environment",13,5,3
+"1122","Caldas da Rainha","2010","x","environment",13,5,3
+"1123","Lourinhã","2010","x","environment",13,5,3
+"1124","Nazaré","2010","x","environment",13,5,3
+"1125","Óbidos","2010","x","environment",13,5,3
+"1126","Peniche","2010","x","environment",13,5,3
+"1127","Sobral de Monte Agraço","2010","x","environment",13,5,3
+"1128","Torres Vedras","2010","x","environment",13,5,3
+"1129","Alcobaça","2011","- 100","environment",13,5,3
+"1130","Alenquer","2011","- x","environment",13,5,3
+"1131","Arruda dos Vinhos","2011","- x","environment",13,5,3
+"1132","Bombarral","2011","- 100","environment",13,5,3
+"1133","Cadaval","2011","- 99","environment",13,5,3
+"1134","Caldas da Rainha","2011","- 100","environment",13,5,3
+"1135","Lourinhã","2011","- 100","environment",13,5,3
+"1136","Nazaré","2011","- 100","environment",13,5,3
+"1137","Óbidos","2011","- x","environment",13,5,3
+"1138","Peniche","2011","- 89","environment",13,5,3
+"1139","Sobral de Monte Agraço","2011","- 100","environment",13,5,3
+"1140","Torres Vedras","2011","- x","environment",13,5,3
+"1141","Alcobaça","2012","100","environment",13,5,3
+"1142","Alenquer","2012","99","environment",13,5,3
+"1143","Arruda dos Vinhos","2012","x","environment",13,5,3
+"1144","Bombarral","2012","100","environment",13,5,3
+"1145","Cadaval","2012","99","environment",13,5,3
+"1146","Caldas da Rainha","2012","100","environment",13,5,3
+"1147","Lourinhã","2012","100","environment",13,5,3
+"1148","Nazaré","2012","100","environment",13,5,3
+"1149","Óbidos","2012","90","environment",13,5,3
+"1150","Peniche","2012","94","environment",13,5,3
+"1151","Sobral de Monte Agraço","2012","100","environment",13,5,3
+"1152","Torres Vedras","2012","x","environment",13,5,3
+"1153","Alcobaça","2013","100","environment",13,5,3
+"1154","Alenquer","2013","99","environment",13,5,3
+"1155","Arruda dos Vinhos","2013","x","environment",13,5,3
+"1156","Bombarral","2013","100","environment",13,5,3
+"1157","Cadaval","2013","99","environment",13,5,3
+"1158","Caldas da Rainha","2013","100","environment",13,5,3
+"1159","Lourinhã","2013","100","environment",13,5,3
+"1160","Nazaré","2013","100","environment",13,5,3
+"1161","Óbidos","2013","90","environment",13,5,3
+"1162","Peniche","2013","95","environment",13,5,3
+"1163","Sobral de Monte Agraço","2013","100","environment",13,5,3
+"1164","Torres Vedras","2013","x","environment",13,5,3
+"1165","Alcobaça","2014","100","environment",13,5,3
+"1166","Alenquer","2014","99","environment",13,5,3
+"1167","Arruda dos Vinhos","2014","91","environment",13,5,3
+"1168","Bombarral","2014","100","environment",13,5,3
+"1169","Cadaval","2014","99","environment",13,5,3
+"1170","Caldas da Rainha","2014","100","environment",13,5,3
+"1171","Lourinhã","2014","100","environment",13,5,3
+"1172","Nazaré","2014","100","environment",13,5,3
+"1173","Óbidos","2014","x","environment",13,5,3
+"1174","Peniche","2014","95","environment",13,5,3
+"1175","Sobral de Monte Agraço","2014","100","environment",13,5,3
+"1176","Torres Vedras","2014","x","environment",13,5,3
+"1177","Alcobaça","2015","100","environment",13,5,3
+"1178","Alenquer","2015","99","environment",13,5,3
+"1179","Arruda dos Vinhos","2015","97","environment",13,5,3
+"1180","Bombarral","2015","100","environment",13,5,3
+"1181","Cadaval","2015","100","environment",13,5,3
+"1182","Caldas da Rainha","2015","100","environment",13,5,3
+"1183","Lourinhã","2015","100","environment",13,5,3
+"1184","Nazaré","2015","100","environment",13,5,3
+"1185","Óbidos","2015","97","environment",13,5,3
+"1186","Peniche","2015","95","environment",13,5,3
+"1187","Sobral de Monte Agraço","2015","100","environment",13,5,3
+"1188","Torres Vedras","2015","99","environment",13,5,3
+"1189","Alcobaça","2016","Pro 100","environment",13,5,3
+"1190","Alenquer","2016","Pro 99","environment",13,5,3
+"1191","Arruda dos Vinhos","2016","Pro 100","environment",13,5,3
+"1192","Bombarral","2016","Pro 100","environment",13,5,3
+"1193","Cadaval","2016","Pro 100","environment",13,5,3
+"1194","Caldas da Rainha","2016","Pro 100","environment",13,5,3
+"1195","Lourinhã","2016","Pro 100","environment",13,5,3
+"1196","Nazaré","2016","Pro 100","environment",13,5,3
+"1197","Óbidos","2016","Pro 97","environment",13,5,3
+"1198","Peniche","2016","Pro 96","environment",13,5,3
+"1199","Sobral de Monte Agraço","2016","Pro 100","environment",13,5,3
+"1200","Torres Vedras","2016","Pro 99","environment",13,5,3
+"1201","Alcobaça","2017","100","environment",13,5,3
+"1202","Alenquer","2017","100","environment",13,5,3
+"1203","Arruda dos Vinhos","2017","100","environment",13,5,3
+"1204","Bombarral","2017","100","environment",13,5,3
+"1205","Cadaval","2017","100","environment",13,5,3
+"1206","Caldas da Rainha","2017","100","environment",13,5,3
+"1207","Lourinhã","2017","100","environment",13,5,3
+"1208","Nazaré","2017","100","environment",13,5,3
+"1209","Óbidos","2017","98","environment",13,5,3
+"1210","Peniche","2017","97","environment",13,5,3
+"1211","Sobral de Monte Agraço","2017","100","environment",13,5,3
+"1212","Torres Vedras","2017","99","environment",13,5,3
+"1213","Alcobaça","2018","100","environment",13,5,3
+"1214","Alenquer","2018","100","environment",13,5,3
+"1215","Arruda dos Vinhos","2018","100","environment",13,5,3
+"1216","Bombarral","2018","x","environment",13,5,3
+"1217","Cadaval","2018","100","environment",13,5,3
+"1218","Caldas da Rainha","2018","100","environment",13,5,3
+"1219","Lourinhã","2018","100","environment",13,5,3
+"1220","Nazaré","2018","100","environment",13,5,3
+"1221","Óbidos","2018","98","environment",13,5,3
+"1222","Peniche","2018","97","environment",13,5,3
+"1223","Sobral de Monte Agraço","2018","100","environment",13,5,3
+"1224","Torres Vedras","2018","99","environment",13,5,3
+"1225","Alcobaça","2019","100","environment",13,5,3
+"1226","Alenquer","2019","100","environment",13,5,3
+"1227","Arruda dos Vinhos","2019","100","environment",13,5,3
+"1228","Bombarral","2019","99","environment",13,5,3
+"1229","Cadaval","2019","100","environment",13,5,3
+"1230","Caldas da Rainha","2019","100","environment",13,5,3
+"1231","Lourinhã","2019","100","environment",13,5,3
+"1232","Nazaré","2019","100","environment",13,5,3
+"1233","Óbidos","2019","98","environment",13,5,3
+"1234","Peniche","2019","97","environment",13,5,3
+"1235","Sobral de Monte Agraço","2019","100","environment",13,5,3
+"1236","Torres Vedras","2019","99","environment",13,5,3
+"1237","Alcobaça","2020","100","environment",13,5,3
+"1238","Alenquer","2020","100","environment",13,5,3
+"1239","Arruda dos Vinhos","2020","100","environment",13,5,3
+"1240","Bombarral","2020","99","environment",13,5,3
+"1241","Cadaval","2020","100","environment",13,5,3
+"1242","Caldas da Rainha","2020","100","environment",13,5,3
+"1243","Lourinhã","2020","100","environment",13,5,3
+"1244","Nazaré","2020","100","environment",13,5,3
+"1245","Óbidos","2020","98","environment",13,5,3
+"1246","Peniche","2020","97","environment",13,5,3
+"1247","Sobral de Monte Agraço","2020","100","environment",13,5,3
+"1248","Torres Vedras","2020","99","environment",13,5,3
+"1249","Alcobaça","1960","0.3","economy",4,5,3
+"1250","Alenquer","1960","0.3","economy",4,5,3
+"1251","Arruda dos Vinhos","1960","0.1","economy",4,5,3
+"1252","Bombarral","1960","0.1","economy",4,5,3
+"1253","Cadaval","1960","0.1","economy",4,5,3
+"1254","Caldas da Rainha","1960","0.4","economy",4,5,3
+"1255","Lourinhã","1960","0.1","economy",4,5,3
+"1256","Nazaré","1960","0.2","economy",4,5,3
+"1257","Óbidos","1960","0.1","economy",4,5,3
+"1258","Peniche","1960","0.2","economy",4,5,3
+"1259","Sobral de Monte Agraço","1960","0.1","economy",4,5,3
+"1260","Torres Vedras","1960","0.4","economy",4,5,3
+"1261","Alcobaça","1981","- 0.3","economy",4,5,3
+"1262","Alenquer","1981","- 0.3","economy",4,5,3
+"1263","Arruda dos Vinhos","1981","- 0.1","economy",4,5,3
+"1264","Bombarral","1981","- 0.1","economy",4,5,3
+"1265","Cadaval","1981","- 0.1","economy",4,5,3
+"1266","Caldas da Rainha","1981","- 0.4","economy",4,5,3
+"1267","Lourinhã","1981","- 0.1","economy",4,5,3
+"1268","Nazaré","1981","- 0.2","economy",4,5,3
+"1269","Óbidos","1981","- 0.1","economy",4,5,3
+"1270","Peniche","1981","- 0.2","economy",4,5,3
+"1271","Sobral de Monte Agraço","1981","- 0.1","economy",4,5,3
+"1272","Torres Vedras","1981","- 0.5","economy",4,5,3
+"1273","Alcobaça","2001","- 0.4","economy",4,5,3
+"1274","Alenquer","2001","- 0.4","economy",4,5,3
+"1275","Arruda dos Vinhos","2001","- 0.1","economy",4,5,3
+"1276","Bombarral","2001","- 0.1","economy",4,5,3
+"1277","Cadaval","2001","- 0.1","economy",4,5,3
+"1278","Caldas da Rainha","2001","- 0.5","economy",4,5,3
+"1279","Lourinhã","2001","- 0.2","economy",4,5,3
+"1280","Nazaré","2001","- 0.1","economy",4,5,3
+"1281","Óbidos","2001","- 0.1","economy",4,5,3
+"1282","Peniche","2001","- 0.2","economy",4,5,3
+"1283","Sobral de Monte Agraço","2001","- 0.1","economy",4,5,3
+"1284","Torres Vedras","2001","- 0.7","economy",4,5,3
+"1285","Alcobaça","2011","0.4","economy",4,5,3
+"1286","Alenquer","2011","0.4","economy",4,5,3
+"1287","Arruda dos Vinhos","2011","0.2","economy",4,5,3
+"1288","Bombarral","2011","0.1","economy",4,5,3
+"1289","Cadaval","2011","0.1","economy",4,5,3
+"1290","Caldas da Rainha","2011","0.5","economy",4,5,3
+"1291","Lourinhã","2011","0.2","economy",4,5,3
+"1292","Nazaré","2011","0.1","economy",4,5,3
+"1293","Óbidos","2011","0.1","economy",4,5,3
+"1294","Peniche","2011","0.2","economy",4,5,3
+"1295","Sobral de Monte Agraço","2011","0.1","economy",4,5,3
+"1296","Torres Vedras","2011","0.8","economy",4,5,3
+"1297","Alcobaça","2020","0.4","economy",4,5,3
+"1298","Alenquer","2020","0.4","economy",4,5,3
+"1299","Arruda dos Vinhos","2020","0.2","economy",4,5,3
+"1300","Bombarral","2020","0.1","economy",4,5,3
+"1301","Cadaval","2020","0.1","economy",4,5,3
+"1302","Caldas da Rainha","2020","0.5","economy",4,5,3
+"1303","Lourinhã","2020","0.2","economy",4,5,3
+"1304","Nazaré","2020","0.1","economy",4,5,3
+"1305","Óbidos","2020","0.1","economy",4,5,3
+"1306","Peniche","2020","0.2","economy",4,5,3
+"1307","Sobral de Monte Agraço","2020","0.1","economy",4,5,3
+"1308","Torres Vedras","2020","0.8","economy",4,5,3
+"1309","Alcobaça","2013","27","governance",9,4,4
+"1310","Alenquer","2013","34","governance",9,4,4
+"1311","Arruda dos Vinhos","2013","46","governance",9,4,4
+"1312","Bombarral","2013","33","governance",9,4,4
+"1313","Cadaval","2013","26","governance",9,4,4
+"1314","Caldas da Rainha","2013","36","governance",9,4,4
+"1315","Lourinhã","2013","42","governance",9,4,4
+"1316","Nazaré","2013","46","governance",9,4,4
+"1317","Óbidos","2013","32","governance",9,4,4
+"1318","Peniche","2013","29","governance",9,4,4
+"1319","Sobral de Monte Agraço","2013","31","governance",9,4,4
+"1320","Torres Vedras","2013","39","governance",9,4,4
+"1321","Alcobaça","2020","27","governance",9,4,4
+"1322","Alenquer","2020","34","governance",9,4,4
+"1323","Arruda dos Vinhos","2020","46","governance",9,4,4
+"1324","Bombarral","2020","33","governance",9,4,4
+"1325","Cadaval","2020","26","governance",9,4,4
+"1326","Caldas da Rainha","2020","36","governance",9,4,4
+"1327","Lourinhã","2020","42","governance",9,4,4
+"1328","Nazaré","2020","46","governance",9,4,4
+"1329","Óbidos","2020","32","governance",9,4,4
+"1330","Peniche","2020","29","governance",9,4,4
+"1331","Sobral de Monte Agraço","2020","31","governance",9,4,4
+"1332","Torres Vedras","2020","39","governance",9,4,4
+"1333","Alcobaça","2001","3.1","economy",10,5,4
+"1334","Alenquer","2001","3.6","economy",10,5,4
+"1335","Arruda dos Vinhos","2001","3.3","economy",10,5,4
+"1336","Bombarral","2001","4.9","economy",10,5,4
+"1337","Cadaval","2001","3.4","economy",10,5,4
+"1338","Caldas da Rainha","2001","5.0","economy",10,5,4
+"1339","Lourinhã","2001","3.4","economy",10,5,4
+"1340","Nazaré","2001","4.2","economy",10,5,4
+"1341","Óbidos","2001","4.1","economy",10,5,4
+"1342","Peniche","2001","6.0","economy",10,5,4
+"1343","Sobral de Monte Agraço","2001","3.1","economy",10,5,4
+"1344","Torres Vedras","2001","3.5","economy",10,5,4
+"1345","Alcobaça","2009","6.5","economy",10,5,4
+"1346","Alenquer","2009","6.8","economy",10,5,4
+"1347","Arruda dos Vinhos","2009","4.3","economy",10,5,4
+"1348","Bombarral","2009","5.7","economy",10,5,4
+"1349","Cadaval","2009","5.9","economy",10,5,4
+"1350","Caldas da Rainha","2009","7.4","economy",10,5,4
+"1351","Lourinhã","2009","5.7","economy",10,5,4
+"1352","Nazaré","2009","7.5","economy",10,5,4
+"1353","Óbidos","2009","6.1","economy",10,5,4
+"1354","Peniche","2009","8.1","economy",10,5,4
+"1355","Sobral de Monte Agraço","2009","4.8","economy",10,5,4
+"1356","Torres Vedras","2009","5.3","economy",10,5,4
+"1357","Alcobaça","2010","6.9","economy",10,5,4
+"1358","Alenquer","2010","7.2","economy",10,5,4
+"1359","Arruda dos Vinhos","2010","5.1","economy",10,5,4
+"1360","Bombarral","2010","6.8","economy",10,5,4
+"1361","Cadaval","2010","6.2","economy",10,5,4
+"1362","Caldas da Rainha","2010","8.3","economy",10,5,4
+"1363","Lourinhã","2010","6.3","economy",10,5,4
+"1364","Nazaré","2010","7.8","economy",10,5,4
+"1365","Óbidos","2010","6.7","economy",10,5,4
+"1366","Peniche","2010","8.3","economy",10,5,4
+"1367","Sobral de Monte Agraço","2010","5.2","economy",10,5,4
+"1368","Torres Vedras","2010","5.9","economy",10,5,4
+"1369","Alcobaça","2011","7.0","economy",10,5,4
+"1370","Alenquer","2011","6.7","economy",10,5,4
+"1371","Arruda dos Vinhos","2011","4.6","economy",10,5,4
+"1372","Bombarral","2011","6.8","economy",10,5,4
+"1373","Cadaval","2011","5.9","economy",10,5,4
+"1374","Caldas da Rainha","2011","8.1","economy",10,5,4
+"1375","Lourinhã","2011","5.9","economy",10,5,4
+"1376","Nazaré","2011","8.2","economy",10,5,4
+"1377","Óbidos","2011","6.5","economy",10,5,4
+"1378","Peniche","2011","8.1","economy",10,5,4
+"1379","Sobral de Monte Agraço","2011","4.9","economy",10,5,4
+"1380","Torres Vedras","2011","5.9","economy",10,5,4
+"1381","Alcobaça","2012","8.1","economy",10,5,4
+"1382","Alenquer","2012","8.6","economy",10,5,4
+"1383","Arruda dos Vinhos","2012","6.5","economy",10,5,4
+"1384","Bombarral","2012","8.6","economy",10,5,4
+"1385","Cadaval","2012","7.8","economy",10,5,4
+"1386","Caldas da Rainha","2012","9.3","economy",10,5,4
+"1387","Lourinhã","2012","7.9","economy",10,5,4
+"1388","Nazaré","2012","9.4","economy",10,5,4
+"1389","Óbidos","2012","7.9","economy",10,5,4
+"1390","Peniche","2012","9.2","economy",10,5,4
+"1391","Sobral de Monte Agraço","2012","6.8","economy",10,5,4
+"1392","Torres Vedras","2012","8.0","economy",10,5,4
+"1393","Alcobaça","2013","8.1","economy",10,5,4
+"1394","Alenquer","2013","8.9","economy",10,5,4
+"1395","Arruda dos Vinhos","2013","6.8","economy",10,5,4
+"1396","Bombarral","2013","8.8","economy",10,5,4
+"1397","Cadaval","2013","9.1","economy",10,5,4
+"1398","Caldas da Rainha","2013","9.2","economy",10,5,4
+"1399","Lourinhã","2013","8.5","economy",10,5,4
+"1400","Nazaré","2013","9.1","economy",10,5,4
+"1401","Óbidos","2013","8.5","economy",10,5,4
+"1402","Peniche","2013","9.6","economy",10,5,4
+"1403","Sobral de Monte Agraço","2013","7.9","economy",10,5,4
+"1404","Torres Vedras","2013","8.9","economy",10,5,4
+"1405","Alcobaça","2014","6.5","economy",10,5,4
+"1406","Alenquer","2014","6.9","economy",10,5,4
+"1407","Arruda dos Vinhos","2014","5.7","economy",10,5,4
+"1408","Bombarral","2014","6.9","economy",10,5,4
+"1409","Cadaval","2014","7.1","economy",10,5,4
+"1410","Caldas da Rainha","2014","7.3","economy",10,5,4
+"1411","Lourinhã","2014","7.3","economy",10,5,4
+"1412","Nazaré","2014","7.5","economy",10,5,4
+"1413","Óbidos","2014","6.7","economy",10,5,4
+"1414","Peniche","2014","8.2","economy",10,5,4
+"1415","Sobral de Monte Agraço","2014","6.2","economy",10,5,4
+"1416","Torres Vedras","2014","7.7","economy",10,5,4
+"1417","Alcobaça","2015","5.2","economy",10,5,4
+"1418","Alenquer","2015","5.3","economy",10,5,4
+"1419","Arruda dos Vinhos","2015","4.5","economy",10,5,4
+"1420","Bombarral","2015","5.8","economy",10,5,4
+"1421","Cadaval","2015","6.0","economy",10,5,4
+"1422","Caldas da Rainha","2015","6.4","economy",10,5,4
+"1423","Lourinhã","2015","5.8","economy",10,5,4
+"1424","Nazaré","2015","6.2","economy",10,5,4
+"1425","Óbidos","2015","6.1","economy",10,5,4
+"1426","Peniche","2015","7.1","economy",10,5,4
+"1427","Sobral de Monte Agraço","2015","5.0","economy",10,5,4
+"1428","Torres Vedras","2015","6.4","economy",10,5,4
+"1429","Alcobaça","2016","4.9","economy",10,5,4
+"1430","Alenquer","2016","5.0","economy",10,5,4
+"1431","Arruda dos Vinhos","2016","4.1","economy",10,5,4
+"1432","Bombarral","2016","5.5","economy",10,5,4
+"1433","Cadaval","2016","6.1","economy",10,5,4
+"1434","Caldas da Rainha","2016","5.7","economy",10,5,4
+"1435","Lourinhã","2016","5.2","economy",10,5,4
+"1436","Nazaré","2016","6.0","economy",10,5,4
+"1437","Óbidos","2016","5.3","economy",10,5,4
+"1438","Peniche","2016","6.3","economy",10,5,4
+"1439","Sobral de Monte Agraço","2016","4.5","economy",10,5,4
+"1440","Torres Vedras","2016","6.2","economy",10,5,4
+"1441","Alcobaça","2017","4.3","economy",10,5,4
+"1442","Alenquer","2017","4.2","economy",10,5,4
+"1443","Arruda dos Vinhos","2017","3.5","economy",10,5,4
+"1444","Bombarral","2017","4.3","economy",10,5,4
+"1445","Cadaval","2017","4.5","economy",10,5,4
+"1446","Caldas da Rainha","2017","4.6","economy",10,5,4
+"1447","Lourinhã","2017","4.4","economy",10,5,4
+"1448","Nazaré","2017","4.9","economy",10,5,4
+"1449","Óbidos","2017","4.2","economy",10,5,4
+"1450","Peniche","2017","5.2","economy",10,5,4
+"1451","Sobral de Monte Agraço","2017","3.5","economy",10,5,4
+"1452","Torres Vedras","2017","5.1","economy",10,5,4
+"1453","Alcobaça","2018","3.3","economy",10,5,4
+"1454","Alenquer","2018","3.4","economy",10,5,4
+"1455","Arruda dos Vinhos","2018","2.9","economy",10,5,4
+"1456","Bombarral","2018","3.3","economy",10,5,4
+"1457","Cadaval","2018","3.7","economy",10,5,4
+"1458","Caldas da Rainha","2018","3.6","economy",10,5,4
+"1459","Lourinhã","2018","3.8","economy",10,5,4
+"1460","Nazaré","2018","4.0","economy",10,5,4
+"1461","Óbidos","2018","3.1","economy",10,5,4
+"1462","Peniche","2018","4.8","economy",10,5,4
+"1463","Sobral de Monte Agraço","2018","2.9","economy",10,5,4
+"1464","Torres Vedras","2018","4.0","economy",10,5,4
+"1465","Alcobaça","2019","2.9","economy",10,5,4
+"1466","Alenquer","2019","3.4","economy",10,5,4
+"1467","Arruda dos Vinhos","2019","2.5","economy",10,5,4
+"1468","Bombarral","2019","2.9","economy",10,5,4
+"1469","Cadaval","2019","3.1","economy",10,5,4
+"1470","Caldas da Rainha","2019","3.2","economy",10,5,4
+"1471","Lourinhã","2019","3.4","economy",10,5,4
+"1472","Nazaré","2019","3.7","economy",10,5,4
+"1473","Óbidos","2019","2.6","economy",10,5,4
+"1474","Peniche","2019","4.3","economy",10,5,4
+"1475","Sobral de Monte Agraço","2019","2.6","economy",10,5,4
+"1476","Torres Vedras","2019","3.5","economy",10,5,4
+"1477","Alcobaça","2020","3.8","economy",10,5,4
+"1478","Alenquer","2020","5.1","economy",10,5,4
+"1479","Arruda dos Vinhos","2020","3.1","economy",10,5,4
+"1480","Bombarral","2020","4.1","economy",10,5,4
+"1481","Cadaval","2020","4.3","economy",10,5,4
+"1482","Caldas da Rainha","2020","4.7","economy",10,5,4
+"1483","Lourinhã","2020","4.3","economy",10,5,4
+"1484","Nazaré","2020","5.4","economy",10,5,4
+"1485","Óbidos","2020","3.7","economy",10,5,4
+"1486","Peniche","2020","5.4","economy",10,5,4
+"1487","Sobral de Monte Agraço","2020","3.1","economy",10,5,4
+"1488","Torres Vedras","2020","4.5","economy",10,5,4
+"1489","Alcobaça","1976","64.3","governance",11,4,2
+"1490","Alenquer","1976","58.6","governance",11,4,2
+"1491","Arruda dos Vinhos","1976","56.9","governance",11,4,2
+"1492","Bombarral","1976","60.9","governance",11,4,2
+"1493","Cadaval","1976","58.8","governance",11,4,2
+"1494","Caldas da Rainha","1976","59.4","governance",11,4,2
+"1495","Lourinhã","1976","63.2","governance",11,4,2
+"1496","Nazaré","1976","62.8","governance",11,4,2
+"1497","Óbidos","1976","56.6","governance",11,4,2
+"1498","Peniche","1976","65.2","governance",11,4,2
+"1499","Sobral de Monte Agraço","1976","55.2","governance",11,4,2
+"1500","Torres Vedras","1976","61.7","governance",11,4,2
+"1501","Alcobaça","1979","70.8","governance",11,4,2
+"1502","Alenquer","1979","75.7","governance",11,4,2
+"1503","Arruda dos Vinhos","1979","67.2","governance",11,4,2
+"1504","Bombarral","1979","67.9","governance",11,4,2
+"1505","Cadaval","1979","70.4","governance",11,4,2
+"1506","Caldas da Rainha","1979","66.7","governance",11,4,2
+"1507","Lourinhã","1979","76.4","governance",11,4,2
+"1508","Nazaré","1979","65.6","governance",11,4,2
+"1509","Óbidos","1979","64.9","governance",11,4,2
+"1510","Peniche","1979","73.3","governance",11,4,2
+"1511","Sobral de Monte Agraço","1979","71.8","governance",11,4,2
+"1512","Torres Vedras","1979","73.4","governance",11,4,2
+"1513","Alcobaça","1982","66.1","governance",11,4,2
+"1514","Alenquer","1982","74.5","governance",11,4,2
+"1515","Arruda dos Vinhos","1982","64.8","governance",11,4,2
+"1516","Bombarral","1982","66.8","governance",11,4,2
+"1517","Cadaval","1982","68.6","governance",11,4,2
+"1518","Caldas da Rainha","1982","62.1","governance",11,4,2
+"1519","Lourinhã","1982","70.2","governance",11,4,2
+"1520","Nazaré","1982","57.4","governance",11,4,2
+"1521","Óbidos","1982","63.1","governance",11,4,2
+"1522","Peniche","1982","71.9","governance",11,4,2
+"1523","Sobral de Monte Agraço","1982","70.5","governance",11,4,2
+"1524","Torres Vedras","1982","69.6","governance",11,4,2
+"1525","Alcobaça","1985","57.9","governance",11,4,2
+"1526","Alenquer","1985","67.4","governance",11,4,2
+"1527","Arruda dos Vinhos","1985","60.3","governance",11,4,2
+"1528","Bombarral","1985","58.2","governance",11,4,2
+"1529","Cadaval","1985","56.4","governance",11,4,2
+"1530","Caldas da Rainha","1985","54.9","governance",11,4,2
+"1531","Lourinhã","1985","67.2","governance",11,4,2
+"1532","Nazaré","1985","60.4","governance",11,4,2
+"1533","Óbidos","1985","55.7","governance",11,4,2
+"1534","Peniche","1985","58.2","governance",11,4,2
+"1535","Sobral de Monte Agraço","1985","64.9","governance",11,4,2
+"1536","Torres Vedras","1985","63.2","governance",11,4,2
+"1537","Alcobaça","1989","62.8","governance",11,4,2
+"1538","Alenquer","1989","63.3","governance",11,4,2
+"1539","Arruda dos Vinhos","1989","60.3","governance",11,4,2
+"1540","Bombarral","1989","55.9","governance",11,4,2
+"1541","Cadaval","1989","64.2","governance",11,4,2
+"1542","Caldas da Rainha","1989","52.8","governance",11,4,2
+"1543","Lourinhã","1989","64.5","governance",11,4,2
+"1544","Nazaré","1989","63.7","governance",11,4,2
+"1545","Óbidos","1989","56.9","governance",11,4,2
+"1546","Peniche","1989","48.2","governance",11,4,2
+"1547","Sobral de Monte Agraço","1989","65.0","governance",11,4,2
+"1548","Torres Vedras","1989","56.7","governance",11,4,2
+"1549","Alcobaça","1993","63.9","governance",11,4,2
+"1550","Alenquer","1993","65.7","governance",11,4,2
+"1551","Arruda dos Vinhos","1993","64.1","governance",11,4,2
+"1552","Bombarral","1993","58.0","governance",11,4,2
+"1553","Cadaval","1993","66.6","governance",11,4,2
+"1554","Caldas da Rainha","1993","55.9","governance",11,4,2
+"1555","Lourinhã","1993","65.8","governance",11,4,2
+"1556","Nazaré","1993","70.3","governance",11,4,2
+"1557","Óbidos","1993","60.2","governance",11,4,2
+"1558","Peniche","1993","53.8","governance",11,4,2
+"1559","Sobral de Monte Agraço","1993","66.1","governance",11,4,2
+"1560","Torres Vedras","1993","60.1","governance",11,4,2
+"1561","Alcobaça","1997","63.2","governance",11,4,2
+"1562","Alenquer","1997","59.3","governance",11,4,2
+"1563","Arruda dos Vinhos","1997","63.1","governance",11,4,2
+"1564","Bombarral","1997","54.1","governance",11,4,2
+"1565","Cadaval","1997","61.1","governance",11,4,2
+"1566","Caldas da Rainha","1997","54.1","governance",11,4,2
+"1567","Lourinhã","1997","64.7","governance",11,4,2
+"1568","Nazaré","1997","66.0","governance",11,4,2
+"1569","Óbidos","1997","60.4","governance",11,4,2
+"1570","Peniche","1997","53.1","governance",11,4,2
+"1571","Sobral de Monte Agraço","1997","60.4","governance",11,4,2
+"1572","Torres Vedras","1997","58.4","governance",11,4,2
+"1573","Alcobaça","2001","62.9","governance",11,4,2
+"1574","Alenquer","2001","58.0","governance",11,4,2
+"1575","Arruda dos Vinhos","2001","64.6","governance",11,4,2
+"1576","Bombarral","2001","59.1","governance",11,4,2
+"1577","Cadaval","2001","61.6","governance",11,4,2
+"1578","Caldas da Rainha","2001","49.6","governance",11,4,2
+"1579","Lourinhã","2001","62.6","governance",11,4,2
+"1580","Nazaré","2001","60.4","governance",11,4,2
+"1581","Óbidos","2001","63.2","governance",11,4,2
+"1582","Peniche","2001","50.8","governance",11,4,2
+"1583","Sobral de Monte Agraço","2001","57.9","governance",11,4,2
+"1584","Torres Vedras","2001","56.2","governance",11,4,2
+"1585","Alcobaça","2005","62.3","governance",11,4,2
+"1586","Alenquer","2005","59.5","governance",11,4,2
+"1587","Arruda dos Vinhos","2005","62.5","governance",11,4,2
+"1588","Bombarral","2005","59.9","governance",11,4,2
+"1589","Cadaval","2005","64.8","governance",11,4,2
+"1590","Caldas da Rainha","2005","53.8","governance",11,4,2
+"1591","Lourinhã","2005","65.0","governance",11,4,2
+"1592","Nazaré","2005","58.1","governance",11,4,2
+"1593","Óbidos","2005","61.5","governance",11,4,2
+"1594","Peniche","2005","54.2","governance",11,4,2
+"1595","Sobral de Monte Agraço","2005","60.0","governance",11,4,2
+"1596","Torres Vedras","2005","60.4","governance",11,4,2
+"1597","Alcobaça","2009","60.4","governance",11,4,2
+"1598","Alenquer","2009","60.4","governance",11,4,2
+"1599","Arruda dos Vinhos","2009","64.2","governance",11,4,2
+"1600","Bombarral","2009","57.4","governance",11,4,2
+"1601","Cadaval","2009","64.8","governance",11,4,2
+"1602","Caldas da Rainha","2009","50.7","governance",11,4,2
+"1603","Lourinhã","2009","59.7","governance",11,4,2
+"1604","Nazaré","2009","56.0","governance",11,4,2
+"1605","Óbidos","2009","59.1","governance",11,4,2
+"1606","Peniche","2009","53.5","governance",11,4,2
+"1607","Sobral de Monte Agraço","2009","58.7","governance",11,4,2
+"1608","Torres Vedras","2009","59.1","governance",11,4,2
+"1609","Alcobaça","2013","53.7","governance",11,4,2
+"1610","Alenquer","2013","51.0","governance",11,4,2
+"1611","Arruda dos Vinhos","2013","58.6","governance",11,4,2
+"1612","Bombarral","2013","51.0","governance",11,4,2
+"1613","Cadaval","2013","58.6","governance",11,4,2
+"1614","Caldas da Rainha","2013","46.5","governance",11,4,2
+"1615","Lourinhã","2013","53.2","governance",11,4,2
+"1616","Nazaré","2013","50.7","governance",11,4,2
+"1617","Óbidos","2013","55.3","governance",11,4,2
+"1618","Peniche","2013","43.2","governance",11,4,2
+"1619","Sobral de Monte Agraço","2013","57.5","governance",11,4,2
+"1620","Torres Vedras","2013","50.9","governance",11,4,2
+"1621","Alcobaça","2017","55.6","governance",11,4,2
+"1622","Alenquer","2017","49.7","governance",11,4,2
+"1623","Arruda dos Vinhos","2017","62.2","governance",11,4,2
+"1624","Bombarral","2017","56.8","governance",11,4,2
+"1625","Cadaval","2017","57.4","governance",11,4,2
+"1626","Caldas da Rainha","2017","47.8","governance",11,4,2
+"1627","Lourinhã","2017","54.9","governance",11,4,2
+"1628","Nazaré","2017","49.1","governance",11,4,2
+"1629","Óbidos","2017","58.4","governance",11,4,2
+"1630","Peniche","2017","50.8","governance",11,4,2
+"1631","Sobral de Monte Agraço","2017","58.7","governance",11,4,2
+"1632","Torres Vedras","2017","53.9","governance",11,4,2
+"1633","Alcobaça","2020","56.8","governance",11,4,2
+"1634","Alenquer","2020","49.1","governance",11,4,2
+"1635","Arruda dos Vinhos","2020","60.3","governance",11,4,2
+"1636","Bombarral","2020","56.5","governance",11,4,2
+"1637","Cadaval","2020","56.4","governance",11,4,2
+"1638","Caldas da Rainha","2020","48.8","governance",11,4,2
+"1639","Lourinhã","2020","55.5","governance",11,4,2
+"1640","Nazaré","2020","44.6","governance",11,4,2
+"1641","Óbidos","2020","57.1","governance",11,4,2
+"1642","Peniche","2020","50.8","governance",11,4,2
+"1643","Sobral de Monte Agraço","2020","57.8","governance",11,4,2
+"1644","Torres Vedras","2020","54.9","governance",11,4,2
+"1645","Alcobaça","2002","-97.0","environment",12,5,2
+"1646","Alenquer","2002","-97.1","environment",12,5,2
+"1647","Arruda dos Vinhos","2002","-97.3","environment",12,5,2
+"1648","Bombarral","2002","-96.9","environment",12,5,2
+"1649","Cadaval","2002","-96.8","environment",12,5,2
+"1650","Caldas da Rainha","2002","-96.8","environment",12,5,2
+"1651","Lourinhã","2002","-96.7","environment",12,5,2
+"1652","Nazaré","2002","-97.3","environment",12,5,2
+"1653","Óbidos","2002","-96.8","environment",12,5,2
+"1654","Peniche","2002","-97.8","environment",12,5,2
+"1655","Sobral de Monte Agraço","2002","-97.5","environment",12,5,2
+"1656","Torres Vedras","2002","-96.9","environment",12,5,2
+"1657","Alcobaça","2009","-85.1","environment",12,5,2
+"1658","Alenquer","2009","-88.0","environment",12,5,2
+"1659","Arruda dos Vinhos","2009","-85.5","environment",12,5,2
+"1660","Bombarral","2009","-84.6","environment",12,5,2
+"1661","Cadaval","2009","-85.1","environment",12,5,2
+"1662","Caldas da Rainha","2009","-84.9","environment",12,5,2
+"1663","Lourinhã","2009","-82.2","environment",12,5,2
+"1664","Nazaré","2009","-89.1","environment",12,5,2
+"1665","Óbidos","2009","-75.2","environment",12,5,2
+"1666","Peniche","2009","-83.9","environment",12,5,2
+"1667","Sobral de Monte Agraço","2009","-86.9","environment",12,5,2
+"1668","Torres Vedras","2009","-84.0","environment",12,5,2
+"1669","Alcobaça","2010","- -81.1","environment",12,5,2
+"1670","Alenquer","2010","- -84.8","environment",12,5,2
+"1671","Arruda dos Vinhos","2010","- -84.2","environment",12,5,2
+"1672","Bombarral","2010","- -78.5","environment",12,5,2
+"1673","Cadaval","2010","- -75.6","environment",12,5,2
+"1674","Caldas da Rainha","2010","- -80.2","environment",12,5,2
+"1675","Lourinhã","2010","- -75.3","environment",12,5,2
+"1676","Nazaré","2010","- -88.0","environment",12,5,2
+"1677","Óbidos","2010","- -69.6","environment",12,5,2
+"1678","Peniche","2010","- -81.3","environment",12,5,2
+"1679","Sobral de Monte Agraço","2010","- -83.2","environment",12,5,2
+"1680","Torres Vedras","2010","- -78.1","environment",12,5,2
+"1681","Alcobaça","2011","-76.1","environment",12,5,2
+"1682","Alenquer","2011","-83.7","environment",12,5,2
+"1683","Arruda dos Vinhos","2011","-81.2","environment",12,5,2
+"1684","Bombarral","2011","-75.0","environment",12,5,2
+"1685","Cadaval","2011","-74.6","environment",12,5,2
+"1686","Caldas da Rainha","2011","-77.7","environment",12,5,2
+"1687","Lourinhã","2011","-70.5","environment",12,5,2
+"1688","Nazaré","2011","-84.5","environment",12,5,2
+"1689","Óbidos","2011","-64.8","environment",12,5,2
+"1690","Peniche","2011","-80.3","environment",12,5,2
+"1691","Sobral de Monte Agraço","2011","-53.5","environment",12,5,2
+"1692","Torres Vedras","2011","-79.5","environment",12,5,2
+"1693","Alcobaça","2012","-78.9","environment",12,5,2
+"1694","Alenquer","2012","-78.5","environment",12,5,2
+"1695","Arruda dos Vinhos","2012","-74.5","environment",12,5,2
+"1696","Bombarral","2012","-77.2","environment",12,5,2
+"1697","Cadaval","2012","-74.2","environment",12,5,2
+"1698","Caldas da Rainha","2012","-77.0","environment",12,5,2
+"1699","Lourinhã","2012","-69.9","environment",12,5,2
+"1700","Nazaré","2012","-86.2","environment",12,5,2
+"1701","Óbidos","2012","-67.9","environment",12,5,2
+"1702","Peniche","2012","-80.6","environment",12,5,2
+"1703","Sobral de Monte Agraço","2012","-76.6","environment",12,5,2
+"1704","Torres Vedras","2012","-76.5","environment",12,5,2
+"1705","Alcobaça","2013","-74.0","environment",12,5,2
+"1706","Alenquer","2013","-76.5","environment",12,5,2
+"1707","Arruda dos Vinhos","2013","-73.2","environment",12,5,2
+"1708","Bombarral","2013","-71.7","environment",12,5,2
+"1709","Cadaval","2013","-70.8","environment",12,5,2
+"1710","Caldas da Rainha","2013","-72.4","environment",12,5,2
+"1711","Lourinhã","2013","-64.1","environment",12,5,2
+"1712","Nazaré","2013","-78.7","environment",12,5,2
+"1713","Óbidos","2013","-59.9","environment",12,5,2
+"1714","Peniche","2013","-71.6","environment",12,5,2
+"1715","Sobral de Monte Agraço","2013","-74.7","environment",12,5,2
+"1716","Torres Vedras","2013","-71.0","environment",12,5,2
+"1717","Alcobaça","2014","-71.3","environment",12,5,2
+"1718","Alenquer","2014","-72.6","environment",12,5,2
+"1719","Arruda dos Vinhos","2014","-70.7","environment",12,5,2
+"1720","Bombarral","2014","-69.7","environment",12,5,2
+"1721","Cadaval","2014","-69.6","environment",12,5,2
+"1722","Caldas da Rainha","2014","-69.2","environment",12,5,2
+"1723","Lourinhã","2014","-61.4","environment",12,5,2
+"1724","Nazaré","2014","-74.6","environment",12,5,2
+"1725","Óbidos","2014","-58.5","environment",12,5,2
+"1726","Peniche","2014","-71.3","environment",12,5,2
+"1727","Sobral de Monte Agraço","2014","-71.0","environment",12,5,2
+"1728","Torres Vedras","2014","-68.8","environment",12,5,2
+"1729","Alcobaça","2015","- -61.1","environment",12,5,2
+"1730","Alenquer","2015","- -54.6","environment",12,5,2
+"1731","Arruda dos Vinhos","2015","- -56.5","environment",12,5,2
+"1732","Bombarral","2015","- -60.1","environment",12,5,2
+"1733","Cadaval","2015","- -59.4","environment",12,5,2
+"1734","Caldas da Rainha","2015","- -59.6","environment",12,5,2
+"1735","Lourinhã","2015","- -54.8","environment",12,5,2
+"1736","Nazaré","2015","- -63.9","environment",12,5,2
+"1737","Óbidos","2015","- -53.6","environment",12,5,2
+"1738","Peniche","2015","- -64.2","environment",12,5,2
+"1739","Sobral de Monte Agraço","2015","- -53.0","environment",12,5,2
+"1740","Torres Vedras","2015","- -60.4","environment",12,5,2
+"1741","Alcobaça","2016","-29.7","environment",12,5,2
+"1742","Alenquer","2016","-76.5","environment",12,5,2
+"1743","Arruda dos Vinhos","2016","-72.6","environment",12,5,2
+"1744","Bombarral","2016","-84.2","environment",12,5,2
+"1745","Cadaval","2016","-76.8","environment",12,5,2
+"1746","Caldas da Rainha","2016","-82.8","environment",12,5,2
+"1747","Lourinhã","2016","-70.5","environment",12,5,2
+"1748","Nazaré","2016","-35.7","environment",12,5,2
+"1749","Óbidos","2016","-71.4","environment",12,5,2
+"1750","Peniche","2016","-84.6","environment",12,5,2
+"1751","Sobral de Monte Agraço","2016","-69.7","environment",12,5,2
+"1752","Torres Vedras","2016","-83.7","environment",12,5,2
+"1753","Alcobaça","2017","-5.3","environment",12,5,2
+"1754","Alenquer","2017","-74.7","environment",12,5,2
+"1755","Arruda dos Vinhos","2017","-75.6","environment",12,5,2
+"1756","Bombarral","2017","-85.0","environment",12,5,2
+"1757","Cadaval","2017","-72.9","environment",12,5,2
+"1758","Caldas da Rainha","2017","-83.2","environment",12,5,2
+"1759","Lourinhã","2017","-76.8","environment",12,5,2
+"1760","Nazaré","2017","-23.0","environment",12,5,2
+"1761","Óbidos","2017","-71.1","environment",12,5,2
+"1762","Peniche","2017","-86.0","environment",12,5,2
+"1763","Sobral de Monte Agraço","2017","-74.0","environment",12,5,2
+"1764","Torres Vedras","2017","-85.0","environment",12,5,2
+"1765","Alcobaça","2018","16.5","environment",12,5,2
+"1766","Alenquer","2018","-77.9","environment",12,5,2
+"1767","Arruda dos Vinhos","2018","-75.3","environment",12,5,2
+"1768","Bombarral","2018","-86.6","environment",12,5,2
+"1769","Cadaval","2018","-76.5","environment",12,5,2
+"1770","Caldas da Rainha","2018","-19.7","environment",12,5,2
+"1771","Lourinhã","2018","-80.5","environment",12,5,2
+"1772","Nazaré","2018","19.2","environment",12,5,2
+"1773","Óbidos","2018","-7.2","environment",12,5,2
+"1774","Peniche","2018","-85.2","environment",12,5,2
+"1775","Sobral de Monte Agraço","2018","-75.3","environment",12,5,2
+"1776","Torres Vedras","2018","-85.4","environment",12,5,2
+"1777","Alcobaça","2019","1.2","environment",12,5,2
+"1778","Alenquer","2019","-78.2","environment",12,5,2
+"1779","Arruda dos Vinhos","2019","-69.4","environment",12,5,2
+"1780","Bombarral","2019","-82.4","environment",12,5,2
+"1781","Cadaval","2019","-75.8","environment",12,5,2
+"1782","Caldas da Rainha","2019","-7.8","environment",12,5,2
+"1783","Lourinhã","2019","-75.4","environment",12,5,2
+"1784","Nazaré","2019","1.0","environment",12,5,2
+"1785","Óbidos","2019","0.0","environment",12,5,2
+"1786","Peniche","2019","-75.7","environment",12,5,2
+"1787","Sobral de Monte Agraço","2019","-69.4","environment",12,5,2
+"1788","Torres Vedras","2019","-81.3","environment",12,5,2
+"1789","Alcobaça","2020","11.5","environment",12,5,2
+"1790","Alenquer","2020","-74.9","environment",12,5,2
+"1791","Arruda dos Vinhos","2020","-69.1","environment",12,5,2
+"1792","Bombarral","2020","-73.7","environment",12,5,2
+"1793","Cadaval","2020","-69.5","environment",12,5,2
+"1794","Caldas da Rainha","2020","-22.1","environment",12,5,2
+"1795","Lourinhã","2020","-63.7","environment",12,5,2
+"1796","Nazaré","2020","11.8","environment",12,5,2
+"1797","Óbidos","2020","-11.1","environment",12,5,2
+"1798","Peniche","2020","-65.7","environment",12,5,2
+"1799","Sobral de Monte Agraço","2020","-69.6","environment",12,5,2
+"1800","Torres Vedras","2020","-73.4","environment",12,5,2

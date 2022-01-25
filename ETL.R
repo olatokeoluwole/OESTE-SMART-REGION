@@ -362,7 +362,6 @@ min_max_norm <- function(x) {
   (x - min(x)) / (max(x) - min(x))
 }
 
-#apply Min-Max normalization to first four columns in iris dataset
 fact_table$"norm_value" <- as.data.frame(lapply(fact_table[3], min_max_norm))
 
 fact_table <- mutate(fact_table,"index"= (fact_table$DIMENSION_COUNT*fact_table$INDICATOR_COUNT*fact_table$norm_value))
@@ -381,7 +380,7 @@ fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Sobral de Monte Agra
 fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Torres Vedras"] <-  12
 
 
-#write.csv(fact_table,"FACT TABLE.csv")
+write.csv(fact_table,"FACT TABLE.csv")
 
 
 
@@ -422,12 +421,12 @@ plot(maps)
 
 
 ## SHAPEFILE landuse
-landuse <- st_read(dsn = 'C:/Users/Oluwole Olatoke/Desktop/SMART REGIONS/ETL CODE/OESTE-SMART-REGION/landcover/landuse.shp')
+#landuse <- st_read(dsn = 'C:/Users/Oluwole Olatoke/Desktop/SMART REGIONS/ETL CODE/OESTE-SMART-REGION/landcover/landuse.shp')
 
-view(landuse)
-agric <- filter(landuse, COS2018_n1 == '2.Agricultura')
+#view(landuse)
+#agric <- filter(landuse, COS2018_n1 == '2.Agricultura')
 
-plot(agric)
+#plot(agric)
 
 
 

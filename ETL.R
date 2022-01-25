@@ -345,43 +345,6 @@ transparent <- mutate(transparent,"DIMENSION"= "governance","ID_INDICATOR"=9,"DI
 #write.csv(transparent,"transparent.csv")
 
 
-##FACT TABLE
-fact_table <- rbind(birth_startups,crime, fatality,fuel_comsump,ict_firms,internet_comp,museums,
-                    public_water_data, tertiary_employ2, transparent,unemployment_data,
-                    voters, wasteindex)
-fact_table <- filter(fact_table, YEAR>="2017")
-fact_table <-rename(fact_table,"INDICATOR ID"="ID_INDICATOR") %>% 
-  rename("MUNICIPALITY ID"="Oeste") %>% 
-  rename("DATE"="YEAR")
-fact_table <- filter(fact_table, DATE=='2020')
-
-# I first turn the VALUE column to numeric and then I normalized the data here
-fact_table$VALUE <- as.numeric(fact_table$VALUE)
-
-min_max_norm <- function(x) {
-  (x - min(x)) / (max(x) - min(x))
-}
-
-fact_table$"norm_value" <- as.data.frame(lapply(fact_table[3], min_max_norm))
-
-fact_table <- mutate(fact_table,"index"= (fact_table$DIMENSION_COUNT*fact_table$INDICATOR_COUNT*fact_table$norm_value))
-
-fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Alcobaça"] <-  1
-fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Alenquer"] <-  2
-fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Arruda dos Vinhos"] <-  3
-fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Bombarral"] <-  4
-fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Cadaval"] <-  5
-fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Caldas da Rainha"] <-  6
-fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Lourinhã"] <-  7
-fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Nazaré"] <-  8
-fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Óbidos"] <-  9
-fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Peniche"] <-  10
-fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Sobral de Monte Agraço"] <-  11
-fact_table$'MUNICIPALITY ID'[fact_table$'MUNICIPALITY ID'=="Torres Vedras"] <-  12
-
-
-write.csv(fact_table,"FACT TABLE.csv")
-
 
 
 

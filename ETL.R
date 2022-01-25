@@ -415,8 +415,8 @@ write.csv(indicator,"INDICATORS DIM.csv")
 
 
 ## SHAPEFILE polygons
-maps <- st_read(dsn = 'C:/Users/Oluwole Olatoke/Desktop/SMART REGIONS/ETL CODE/OESTE-SMART-REGION/shapefileCIM/CIM.shp')
-plot(maps)
+#maps <- st_read(dsn = 'C:/Users/Oluwole Olatoke/Desktop/SMART REGIONS/ETL CODE/OESTE-SMART-REGION/shapefileCIM/CIM.shp')
+#plot(maps)
 
 
 
